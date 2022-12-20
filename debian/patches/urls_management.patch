@@ -1,0 +1,35 @@
+Author: Влад Стовманенко <flaviusglamfenix@gmail.com>
+Description: fixing handling some malformed filenames in a wrong way
+
+Index: gpicview/src/gpicview.c
+===================================================================
+--- gpicview.orig/src/gpicview.c
++++ gpicview/src/gpicview.c
+@@ -90,6 +90,13 @@ int main(int argc, char *argv[])
+         if( G_UNLIKELY( *files[0] != '/' && strstr( files[0], "://" )) )    // This is an URI
+         {
+             char* path = g_filename_from_uri( files[0], NULL, NULL );
++
++            if(!path)
++            {
++                main_win_show_error(win, _("Cannot open file"));
++                return 1;
++            }
++
+             main_win_open( win, path, ZOOM_NONE );
+             g_free( path );
+         }
+Index: gpicview/src/main-win.c
+===================================================================
+--- gpicview.orig/src/main-win.c
++++ gpicview/src/main-win.c
+@@ -372,6 +372,9 @@ static void update_btns(MainWin* mw)
+ 
+ gboolean main_win_open( MainWin* mw, const char* file_path, ZoomMode zoom )
+ {
++    if(!file_path)
++        return FALSE;
++
+     if (g_file_test(file_path, G_FILE_TEST_IS_DIR))
+     {
+         image_list_open_dir( mw->img_list, file_path, NULL );

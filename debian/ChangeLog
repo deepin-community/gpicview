@@ -1,0 +1,3068 @@
+commit c28cb568e307522dea9fe224212ea061ba2f532e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Oct 23 10:43:00 2013 +0200
+
+    Release v0.2.4.
+
+commit da22cc786a330d28c8669eb41bda873623f909b0
+Author: jay <tito.nehru.naser@gmail.com>
+Date:   Thu Sep 5 18:56:07 2013 +0000
+
+    Commit from LXDE Pootle server by user jay.: 52 of 52 strings translated (0 fuzzy).
+
+commit 5882320db6e3de3f2a279d052a39cd6df412eb4f
+Author: jay <tito.nehru.naser@gmail.com>
+Date:   Thu Sep 5 18:55:33 2013 +0000
+
+    Commit from LXDE Pootle server by user jay.: 52 of 52 strings translated (0 fuzzy).
+
+commit 1145d834cafcbfbdf1b0b712a319137d90f7d0c0
+Author: JSonic <juhaninumminen0@gmail.com>
+Date:   Fri Aug 30 15:15:10 2013 +0000
+
+    Commit from LXDE Pootle server by user JSonic.: 52 of 52 strings translated (0 fuzzy).
+
+commit cb438a82fdb3d9e01c99b98dc12383283bd7d5db
+Author: strebski <strebski@o2.pl>
+Date:   Tue Aug 27 13:19:03 2013 +0000
+
+    Commit from LXDE Pootle server by user strebski.: 52 of 52 strings translated (0 fuzzy).
+
+commit 630da3e7d5320a117985193f54c91978a99bd8e4
+Author: Julius22 <Julius22@laposte.net>
+Date:   Mon Aug 12 19:11:31 2013 +0000
+
+    Commit from LXDE Pootle server by user Julius22.: 52 of 52 strings translated (0 fuzzy).
+
+commit 044ff0938cd8e1e28b764946e9f8f5c9a6f0c763
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jul 31 22:10:09 2013 +0200
+
+    [l10n] Corrected syntax error in lt.po, one line break too much.
+
+commit 63d297172d2018e292f4aeeeac2170631974bbd0
+Author: KlemenKosir <klemen913@gmail.com>
+Date:   Mon Jul 29 21:08:40 2013 +0000
+
+    Commit from LXDE Pootle server by user KlemenKosir.: 52 of 52 strings translated (0 fuzzy).
+
+commit 29900ef825c61bf8be2f689a6b5c6027c76a6acf
+Author: gymka <gymka@archlinux.lt>
+Date:   Sun Jul 28 08:01:23 2013 +0000
+
+    Commit from LXDE Pootle server by user gymka.: 52 of 52 strings translated (0 fuzzy).
+
+commit dcd0b081f7abc1dac4c7edcbc522ab868c6e895c
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Thu Jul 25 11:25:45 2013 +0000
+
+    Commit from LXDE Pootle server by user smarquespt.: 52 of 52 strings translated (0 fuzzy).
+
+commit 38128e026ac63ad126d33cfbf92cd75842485db6
+Author: Praveen_Illa <mail2ipn@gmail.com>
+Date:   Thu Jul 18 16:19:32 2013 +0000
+
+    Commit from LXDE Pootle server by user Praveen_Illa.: 68 of 68 strings translated (0 fuzzy).
+
+commit eddf0e3a3eb95c3909c3cba05c636759b7011b3c
+Author: sotrud_nik <baurthefirst@gmail.com>
+Date:   Sun Jul 14 15:19:34 2013 +0000
+
+    Commit from LXDE Pootle server by user sotrud_nik.: 52 of 52 strings translated (0 fuzzy).
+
+commit 5e5b7aec7d872e26c5c1c16462d358aa90d84160
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Fri Jul 12 18:38:12 2013 +0200
+
+    Modernize autotools
+
+commit 3204817d6442a3c31caa974e886df533b23047b2
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Fri Jul 12 18:30:18 2013 +0200
+
+    Remove gtk-doc stuff in autogen
+
+commit 2c7cec9df5c453ebed8769bb83b58da2a4f99313
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Thu Jul 11 22:34:26 2013 +0200
+
+    Fix autogen with new versions of automake
+
+commit cc0eda19a698885478dfc0f6992bed86eb438fbe
+Author: kizito <kbirabwa@yahoo.co.uk>
+Date:   Tue Jul 9 12:00:24 2013 +0000
+
+    Commit from LXDE Pootle server by user kizito.: 52 of 52 strings translated (0 fuzzy).
+
+commit 2ca2926555be7b4c596fa2f7c760db2d5b7bfd79
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Tue Jan 1 18:59:31 2013 +0100
+
+    Install the icon in the hicolor directory, and use a themed icon when available.
+
+commit 9368feef008a7bd472a6318cb8d07bf650e2850b
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Wed Oct 31 20:13:27 2012 +0100
+
+    [l10n] Clean up at pootle server.
+
+commit 4c2d5c832a84b3382b1e7cada72adcf7c1a97378
+Author: Asier_Iturralde_Sarasola <asier.iturralde@gmail.com>
+Date:   Sat Oct 27 21:34:12 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Asier_Iturralde_Sarasola.: 52 of 52 messages translated (0 fuzzy).
+
+commit 64fcc8a3a7f247e342974c95cc3198329567a693
+Author: wwycheuk <wwycheuk@gmail.com>
+Date:   Fri Oct 26 01:32:49 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user wwycheuk.: 52 of 52 messages translated (0 fuzzy).
+
+commit ea7ba88db92ad8e30f411a1ddfe0a4e9353fb017
+Author: Yorvyk <yorvik.ubunto@gmail.com>
+Date:   Wed Oct 24 21:55:24 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yorvyk.: 52 of 52 messages translated (0 fuzzy).
+
+commit ba4cd338fa507cc9749eedb518dba1b3fa001e22
+Author: Yaron <sh.yaron@gmail.com>
+Date:   Tue Oct 23 22:31:06 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yaron.: 52 of 52 messages translated (0 fuzzy).
+
+commit b54d6fb14916709283b38a6c1ba0a5f6369749f3
+Author: hironao <hirkmt@gmail.com>
+Date:   Thu Oct 18 07:12:07 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user hironao.: 52 of 52 messages translated (0 fuzzy).
+
+commit 5b7ee8c3fe210b36a293ca7f29c82947939f7384
+Author: dforsi <daniele@forsi.it>
+Date:   Wed Oct 17 15:23:12 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user dforsi.: 51 of 52 messages translated (0 fuzzy).
+
+commit 82dfb1b338f9ad0412ecffcf416a80df8293b0a6
+Author: Yinghua_Wang <wantinghard@gmail.com>
+Date:   Sun Oct 14 12:25:50 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yinghua_Wang.: 52 of 52 messages translated (0 fuzzy).
+
+commit 5316c9e8a44ee08a8a5031323673783dbc148f56
+Author: mbouzada <mbouzada@gmail.com>
+Date:   Fri Oct 12 10:14:20 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user mbouzada.: 51 of 52 messages translated (0 fuzzy).
+
+commit 1d9ff99aebee7217055913fa4cf1206818d1c073
+Author: tranduyhung <nguyentieuhau@gmail.com>
+Date:   Fri Oct 12 04:43:20 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user tranduyhung.: 52 of 52 messages translated (0 fuzzy).
+
+commit 51c41da7c6eeb3d8070ed27369bb9b2e811eb900
+Author: dumol <dumol@l10n.ro>
+Date:   Tue Oct 9 11:33:52 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user dumol.: 51 of 52 messages translated (0 fuzzy).
+
+commit 9601c287511315180cd09594eb7f2e0afa1518a0
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Sun Oct 7 02:41:12 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user smarquespt.: 51 of 52 messages translated (0 fuzzy).
+
+commit 16343f73c2714609ff6ddb8581de704347431e53
+Author: andika <andika@gmail.com>
+Date:   Mon Oct 1 02:27:43 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user andika.: 52 of 52 messages translated (0 fuzzy).
+
+commit b9b87a9616010b2bdb2f81d98b62d3cb08b42ac0
+Author: Recku <reckku@gmail.com>
+Date:   Sun Sep 30 08:28:04 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Recku.: 51 of 52 messages translated (0 fuzzy).
+
+commit 7bee5ce0f14d0a96f7882465a642bf66bb944155
+Author: wwycheuk <wwycheuk@gmail.com>
+Date:   Sun Sep 30 05:54:21 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user wwycheuk.: 52 of 52 messages translated (0 fuzzy).
+
+commit 64016cd244de2d0255ddc31b1f626e01e36aaa67
+Author: DanWin <d@winzen4.de>
+Date:   Fri Sep 28 20:48:13 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user DanWin.: 52 of 52 messages translated (0 fuzzy).
+
+commit 7b4517c077a1abb289db10a4447403940417d30e
+Author: Mikalai <crom-a@tut.by>
+Date:   Wed Sep 26 01:07:38 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Mikalai.: 52 of 52 messages translated (0 fuzzy).
+
+commit 505cebb21dd0405bd008d163b4b1149c5f59d04f
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Tue Sep 25 23:13:03 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 52 of 52 messages translated (0 fuzzy).
+
+commit 08dba3ca07e5812219756fb34f32aafc0c43f14d
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Mon Sep 24 22:44:45 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 52 of 52 messages translated (0 fuzzy).
+
+commit 3aeec072a070ab405816d5c949aae315385acca7
+Author: Jalakas <anari.jalakas@gmail.com>
+Date:   Mon Sep 24 21:15:00 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Jalakas.: 52 of 52 messages translated (0 fuzzy).
+
+commit 50b07569d1a0c0f729ae85e564f3b4ae3ea40d6e
+Author: gymka <margevicius.algimantas@gmail.com>
+Date:   Mon Sep 24 07:04:11 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user gymka.: 52 of 52 messages translated (0 fuzzy).
+
+commit 1782b272fd74da032767ec685e5720c5d7075151
+Author: LStranger <andrej@rep.kiev.ua>
+Date:   Sun Sep 23 22:28:24 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user LStranger.: 51 of 52 messages translated (0 fuzzy).
+
+commit a363652187a36e9140928984cff1fa4946487938
+Author: brother <brother@bsnet.se>
+Date:   Sun Sep 23 14:39:36 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 52 of 52 messages translated (0 fuzzy).
+
+commit 4713391cf90f6c88c8eec5e210d2662c45f205cb
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sun Sep 23 14:37:12 2012 +0200
+
+    [l10n] Resync files.
+
+commit b386d4cc850275f529d220329a61ff4c9e2a2f16
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sun Sep 23 14:36:44 2012 +0200
+
+    [l10n] Add partially translated PA.
+
+commit 714509098b85ce12716cab2cec8696db3fe22404
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sun Sep 23 14:36:16 2012 +0200
+
+    [l10n] Cleanup.
+
+commit f248c0c5856ad3c3d461316beb2c7ec30db19e80
+Author: dforsi <daniele@forsi.it>
+Date:   Sun Aug 26 12:48:59 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user dforsi.: 51 of 51 messages translated (0 fuzzy).
+
+commit 843c91adf3511edc56b1ecc7d781eb4ffb216b21
+Author: lOtz1009 <lthuns@opensuse.org>
+Date:   Wed Aug 15 08:39:16 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user lOtz1009.: 51 of 51 messages translated (0 fuzzy).
+
+commit 4a71fb85df4ed7813845e899dc8a34c13189c57f
+Author: ALIUM <info@aloisnespor.info>
+Date:   Wed Aug 15 08:21:42 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user ALIUM.: 51 of 51 messages translated (0 fuzzy).
+
+commit f06a36786b294bc57f1794a2f536f9466b87e7f4
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Sun Aug 5 13:11:12 2012 +0200
+
+    Update .gitignore
+
+commit 404abde4ae14611b9eafebdfc17f5d5529d2f0bc
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Sun Aug 5 13:10:08 2012 +0200
+
+    Update .pot file
+
+commit 45dc7d2c7b89da6599ec074c958de835aa5e4817
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Sat Aug 4 01:13:07 2012 +0800
+
+    Show images from current directory when run with no arguments.
+
+commit 5f0282310ccd59f8fed5fbc9b7829cde90b3bcc2
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Sat Aug 4 01:07:24 2012 +0800
+
+    Show/hide toolbar. Handle case "gpicview path/to/some/directory/".
+
+commit 3c2f1a2966d29de66481b00df331860e2c53fa87
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Sat Aug 4 00:16:39 2012 +0800
+
+    do not reset zoom mode on prev/next actions
+
+commit 840219a846c3d0fc06df4b8adb347bf26d4d8618
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Sat Aug 4 00:11:27 2012 +0800
+
+    Some refactoring of zoom and scale switching code. Also fixes glitches of "Fit Image" button state.
+
+commit c09b934a9e19a633960ec6e2d82e2fb53b883f5a
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 23:19:39 2012 +0800
+
+    fix "Fit Image" with Gtk3
+
+commit 88e76ee77d7271820dfad4b66ea1ca892e1a1ae0
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 22:43:29 2012 +0800
+
+    fix scrolling when scale == 1
+
+commit 83a5589c6ac5d3d0208f4bd4d857ee168a4779e2
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 22:26:54 2012 +0800
+
+    fix displaying images with gtk3
+
+commit 71574c734d7760760608da4628ff1a71adbe54c3
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 22:12:58 2012 +0800
+
+    Fix compilation with GTK3 for image-view.c. Ok, the program builds succussfully with GTK3 (but does not show any images, however), it is time to do something useful.
+
+commit b6074e62d48547cf045336a3a0031a585ece2bd6
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 21:32:41 2012 +0800
+
+    Fix compilation with GTK3 for main-win.c
+
+commit 987e3848f0f4b5125cee3cb92e68fa2d7583b19a
+Author: Vadim Ushakov <igeekless@gmail.com>
+Date:   Fri Aug 3 19:12:48 2012 +0800
+
+    allow automake 1.12
+
+commit 579e58f64bdcf9d05b7f4fd2815c17ad678c8b39
+Author: Asier_Iturralde_Sarasola <asier.iturralde@gmail.com>
+Date:   Mon Jul 9 00:24:38 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Asier_Iturralde_Sarasola.: 50 of 51 messages translated (0 fuzzy).
+
+commit e5e8cabe0777290ea84f3363bdc84e5c78db1298
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Sat May 19 16:25:13 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user smarquespt.: 51 of 51 messages translated (0 fuzzy).
+
+commit aff1d13cdd04a77a97559c57fc1c819ac1ac8da5
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Fri May 18 11:22:41 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user smarquespt.: 51 of 51 messages translated (0 fuzzy).
+
+commit 900c9be36633bbca1073e491292ba44946b69b8d
+Author: abdic88 <abdic88@gmail.com>
+Date:   Tue May 15 11:43:11 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user abdic88.: 51 of 51 messages translated (0 fuzzy).
+
+commit 926b2623774a739ae9894ab8027dff5930b487cf
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Apr 20 22:33:52 2012 +0200
+
+    Bump version before release.
+
+commit 2e3404cea78e4b559693eb6fefa3a94e266edb30
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Apr 20 22:26:08 2012 +0200
+
+    [l10n] Resync PO files.
+
+commit 65884ba6c9e899750f4aab70646423736debbef4
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Apr 20 22:24:39 2012 +0200
+
+    [l10n] Adding translation for ar and ko.
+
+commit cbe1d0f504163ea9956810522715129fd9bf6a59
+Author: dumol <dumol@l10n.ro>
+Date:   Thu Apr 19 13:36:54 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user dumol.: 51 of 51 messages translated (0 fuzzy).
+
+commit 2d51e841ddf4d0a4078b27cbecaaa7f516604ed5
+Author: wwycheuk <wwycheuk@gmail.com>
+Date:   Sat Apr 14 10:43:43 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user wwycheuk.: 51 of 51 messages translated (0 fuzzy).
+
+commit 2b82ca358e41f37638842de786253e17a3d033f0
+Author: dumol <dumol@l10n.ro>
+Date:   Thu Mar 8 12:16:37 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user dumol.: 51 of 51 messages translated (0 fuzzy).
+
+commit d4700f8968bb6f436966fb66df3146c5c16f0e56
+Author: pacchiee <pacchiee@gmail.com>
+Date:   Sun Feb 12 14:23:19 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user pacchiee.: 33 of 51 messages translated (0 fuzzy).
+
+commit 924dcc68ac4fd6ad0fd4eadca1cd2902ff9c7d2a
+Author: Yorvyk <yorvik.ubunto@gmail.com>
+Date:   Wed Jan 25 00:20:52 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yorvyk.: 51 of 51 messages translated (0 fuzzy).
+
+commit 910b09ed3813817245f4adc2b83a60952926cbf2
+Author: Jalakas <anari.jalakas@gmail.com>
+Date:   Sun Jan 22 19:09:46 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Jalakas.: 51 of 51 messages translated (0 fuzzy).
+
+commit b6b75db5b51bc1524eb6c418433a6112ba835c29
+Author: pacchiee <pacchiee@gmail.com>
+Date:   Sun Jan 22 15:01:00 2012 +0200
+
+    Commit from LXDE Translation Project with Pootle by user pacchiee.: 9 of 51 messages translated (0 fuzzy).
+
+commit 4db0d1cd78555446fa5fde05ebce1f5fec2123ae
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Jan 7 16:23:15 2012 +0100
+
+    Correction to the PATH_MAX problems for GNU/Hurd.
+    
+    Svante Signell <svante.signell@telia.com> provided this patch at the Debian BTS:
+    http://bugs.debian.org/643577
+
+commit 168eb4a0f0599f85a5ef913d1646aa43a89d1a4a
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sat Jan 7 16:36:41 2012 +0100
+
+    [l10n] Updated eo and he. Added ug.
+
+commit 10894a10cba9281b96556ef66357e292315d80f0
+Author: mbouzada <mbouzada@gmail.com>
+Date:   Sat Dec 24 13:50:57 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user mbouzada.: 51 of 51 messages translated (0 fuzzy).
+
+commit 7cffd75c059ad5fa9047a4ee517b535373d8d066
+Author: mbouzada <mbouzada@gmail.com>
+Date:   Wed Dec 14 14:54:01 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user mbouzada.: 51 of 51 messages translated (0 fuzzy).
+
+commit ad684174ef180756d17a3576a4c46e2f47048848
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Sun Nov 27 20:36:47 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit 46d319e4c6a9fa6ef27ccb1a0c09c6d7e46beb5c
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Fri Nov 25 21:17:51 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit eeeabafc09a03bc21484302a071efb65c282783b
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Fri Nov 25 20:47:42 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit db23b6bc1286b97b1237ca38c94c2120ecab6ba3
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Tue Nov 22 14:53:45 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user smarquespt.: 51 of 51 messages translated (0 fuzzy).
+
+commit faaec75af5c316d88bf1d9983368be626934953d
+Author: Kristjan <kristjan.schmidt@googlemail.com>
+Date:   Fri Sep 30 16:16:25 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Kristjan.: 37 of 51 messages translated (0 fuzzy).
+
+commit 38cc56d08d243c886526d16bad3ee0b6571d6914
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Sun Sep 18 08:49:36 2011 +0200
+
+    fixed link with latest ld
+
+commit abfa219fee4c2785c4ede38776a2b2ae82603718
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Thu Sep 8 14:34:16 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit 9ee081190483e765b300e14fad2140b0d7450abe
+Author: Jalakas <anari.jalakas@gmail.com>
+Date:   Tue Sep 6 16:56:22 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Jalakas.: 51 of 51 messages translated (0 fuzzy).
+
+commit eccc954e3f2e43f508e04979a1387dfa16a90da6
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Sat Aug 27 09:22:38 2011 +0200
+
+    fixed changelog
+
+commit 83e18c1106249b043689e98ace9eb1747b23c6be
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Sat Aug 27 09:09:55 2011 +0200
+
+    update changelog
+
+commit 7c9f7d20ffddd54a64c7a36a3bf4bee3696c4a18
+Author: ainurshakirov <ainur.shakirov.tt@gmail.com>
+Date:   Sat Aug 20 12:50:21 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user ainurshakirov.: 51 of 51 messages translated (0 fuzzy).
+
+commit 9b985507e7e6a9e10e5838a673669025229f6bf7
+Author: Mikalai <crom-a@tut.by>
+Date:   Tue Aug 9 22:54:07 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Mikalai.: 51 of 51 messages translated (0 fuzzy).
+
+commit 762d3e471d86c206fd7b4ed3fadb9f13b6cc8d24
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Jul 29 14:18:12 2011 +0200
+
+    Revert "removed spurious exec bit"
+    
+    Removing unnecessary po file change.
+    
+    This reverts commit 53a488f96f99a7b1aff147adf06ada279c832be6.
+
+commit 53a488f96f99a7b1aff147adf06ada279c832be6
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Wed Jul 27 14:42:25 2011 +0200
+
+    removed spurious exec bit
+
+commit 557018eab88d406e47b6f9e0d965fc5f527e6bc0
+Author: ainurshakirov <ainur.shakirov.tt@gmail.com>
+Date:   Tue Jul 26 11:00:54 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user ainurshakirov.: 51 of 51 messages translated (0 fuzzy).
+
+commit 6b23fae10720ef10ae612c5702f6c7ed8b53d7f1
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sat Jul 23 15:54:41 2011 +0200
+
+    Release v0.2.2
+
+commit 5e9c040c0bc80b2d51c8ddc7d8d3bbb74b2c904a
+Author: Yorvyk <yorvik.ubunto@gmail.com>
+Date:   Fri Jul 22 16:10:05 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yorvyk.: 51 of 51 messages translated (0 fuzzy).
+
+commit 735ae8dd0eddcfaa2740fd6a81564ad5c1465e3c
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Jul 22 16:05:33 2011 +0200
+
+    [l10n] Unfuzzy copyright yar change.
+
+commit 9b533571bd03dfb0606e74cb2e84eb867b9c5406
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Jul 22 15:58:03 2011 +0200
+
+    Updated copyright year in about box
+
+commit c465d03d12d6e3f539aff409483548c349724650
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Fri Jul 22 15:56:01 2011 +0200
+
+    [l10n] Updated en_GB.
+
+commit 54ac7ec762f643ca0e18d99be6893764c8b072ea
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Fri Jul 22 12:25:36 2011 +0200
+
+    finally fixed package linking issue
+
+commit add4d1900ee5d7e6f0a830571ead4e9b006c909d
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Fri Jul 22 12:18:44 2011 +0200
+
+    fix pkgconfig flag according to the new name
+
+commit f82a77201944f105cab14b3028e5b3699c496232
+Author: ainurshakirov <ainur.shakirov.tt@gmail.com>
+Date:   Fri Jul 22 08:27:21 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user ainurshakirov.: 51 of 51 messages translated (0 fuzzy).
+
+commit fd10d026dc5d02b49165050e602280e49a8d6f22
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Thu Jul 21 21:49:21 2011 +0200
+
+    [l10n] Resync PO files before release.
+
+commit 05d97d073d47557dad755f4a24fc79facab703da
+Author: Andrea Florio <andrea@opensuse.org>
+Date:   Sun Jul 17 22:57:05 2011 +0200
+
+    we need X11 not a generic 'package'
+
+commit 27f4d227641c6c31dc14215af62eed892b7a32bb
+Author: PraveenIlla <mail2ipn@gmail.com>
+Date:   Tue Jul 12 20:22:52 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user PraveenIlla.: 49 of 51 messages translated (2 fuzzy).
+
+commit 7cc9a5241bbbd8aad72842fd60f5083d364f6bd0
+Author: ainurshakirov <ainur.shakirov.tt@gmail.com>
+Date:   Sun Jul 10 10:58:20 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user ainurshakirov.: 51 of 51 messages translated (0 fuzzy).
+
+commit 89de0aff87b21e265fc2b70f8bfb24bd2e6425f7
+Merge: 5259143 89bf439
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Thu Jun 23 19:03:33 2011 +0200
+
+    Merge branch 'master' of ssh://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+
+commit 52591430464eb3db6abdc039c181efd09f4c5910
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Thu Jun 23 19:02:17 2011 +0200
+
+    debian : convert to tiny debian/rules
+
+commit 89bf439812f1b0c4046c66fc1d6c7ee9db756071
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Thu Jun 23 00:24:49 2011 +0200
+
+    [l10n] Convert id.po line endings and unfuzzy tab character change
+
+commit a4599236724c5f464bbf12b4657c2c6780829cc1
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Thu Jun 23 00:20:43 2011 +0200
+
+    [l10n] Remove fuzzy marker and tab ending after resynced files
+
+commit 5b0aed36aea6c3d51a5ba8579323f714d1d29916
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Thu Jun 23 00:08:13 2011 +0200
+
+    [l10n] resync PO files with POT
+
+commit d25c909cd75c1b4c89306cb69933ce7d56dc7195
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 22:34:04 2011 +0200
+
+    Update .pot
+
+commit d21eae266b4613dcfd4fd6fd00a00b150298296d
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 21:16:29 2011 +0200
+
+    Use ui in pot file
+
+commit 542ea16179a2fa78d4056ae96f4ab967c58b1d75
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 21:11:46 2011 +0200
+
+    Use directly ui file
+
+commit 5e937233e9cebc652e009f9b921b0cac1b85b334
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 21:08:25 2011 +0200
+
+    Remove the .ui file from gitignore
+
+commit 76c4a7285f5d1ac3ac7e67970de040bcfe61db0c
+Merge: baea106 e14a546
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 19:39:23 2011 +0200
+
+    Merge branch 'master' of ssh://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+
+commit baea1061abc6ea245302e6792fb022e6d9c4972a
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 19:37:46 2011 +0200
+
+    Regenerate configure & Makefile when building debian packages
+
+commit 578a19f44b4041f7d1c54dd7ecffede9f02e3902
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Wed Jun 22 19:35:16 2011 +0200
+
+    Update debian/ with current version on Debian
+
+commit e14a546cab6c551d42b79f3b7c60568318741a73
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Sat Jun 18 11:41:12 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit aeb05c937f4ef9287200236ce66aa430f36943c0
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Fri Jun 17 19:44:37 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit fc1f98b6597105e209b6d1a89b4c516fa58748f2
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Mon Jun 13 12:36:46 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit faf48ef81524053633ae8e63a6bd0c4d71acd785
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Sun Jun 12 22:42:15 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit fa6b79d66031c2b7cc35cab7c85ea7fca72f9996
+Author: Martin Bagge / brother <brother@bsnet.se>
+Date:   Sun Jun 12 17:17:17 2011 +0200
+
+    [l10n] Corrected Slovenian plural form expression
+
+commit e5c27118c3ac13c46d0dc4594c7244a4c3faf080
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Tue Jun 7 00:07:53 2011 +0200
+
+    Experiment a drawing function for gtk3
+
+commit 5804551757d1dfa533ea8debfdf0c5711def2c0e
+Author: Julien Lavergne <julien.lavergne@gmail.com>
+Date:   Mon Jun 6 22:32:51 2011 +0200
+
+    Add options for enable more warnings and building with gtk3
+
+commit e5c905bf2a4a3fc499b87d20592f2521ac481b58
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Thu Jun 2 23:22:10 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit fd247e56ccaf34a991019767049b461f5df27df5
+Author: secipolla <ikisham@gmail.com>
+Date:   Wed Jun 1 12:51:56 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user secipolla.: 51 of 51 messages translated (0 fuzzy).
+
+commit 380ac0af902f328cd44f0d91accfd25b7145fe67
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Sat May 28 17:00:43 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit db299bcdd3e038b04ab590be1d29167eaa4f7efc
+Author: secipolla <ikisham@gmail.com>
+Date:   Thu May 26 19:51:38 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user secipolla.: 51 of 51 messages translated (0 fuzzy).
+
+commit eec47d990df185e785c391d4eb5a380aa9c5ca33
+Author: smarquespt <smarquespt@gmail.com>
+Date:   Mon May 23 20:10:02 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user smarquespt.: 51 of 51 messages translated (0 fuzzy).
+
+commit eb987ca30569b71d73d9b3ca6630341f204647d7
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Thu May 19 12:46:27 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit 183f45072955169541821de041181203d230442f
+Author: Pjotr <pliniusminor@gmail.com>
+Date:   Wed May 18 16:44:31 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Pjotr.: 51 of 51 messages translated (0 fuzzy).
+
+commit 99fd56c0004313ed7fcf16f2ba19d3e5114f7791
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 12:41:11 2011 +0200
+
+    Fix compilation of xml-purge.c
+
+commit f861cb9a9cd69798ffbfc2a88a81cfeb1ebfe239
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 12:32:39 2011 +0200
+
+    Fix compilation with jpgfile.c
+
+commit e3c943ab88ebe645cdf04c236e031867593b724c
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 12:30:52 2011 +0200
+
+    Fix compilation for exif.c
+
+commit de6575b62e945e9c2a7662c3b8e4c6f5c09c2443
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 11:50:23 2011 +0200
+
+    Fix compilation for src/jpeg-tran.c
+
+commit db28fa27ea6dbd5cf463355ba1d5d75bc0c989b1
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 11:44:04 2011 +0200
+
+    Fix compilation with GTK3 for file-dlgs.c
+
+commit 26bda1d91fd4ee3635d4212034b53f5fe28560ec
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 11:39:50 2011 +0200
+
+    Fix compilation with GTK3 for  working-area.c
+
+commit aba809cf57681285888f1500658823adffc6df14
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Fri May 13 11:20:17 2011 +0200
+
+    Fix compilation for GTK3 for image-view.c
+
+commit 4c4ee3aa6b23f2ea0710dbe7502ef330d812e0d3
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Wed May 11 18:07:08 2011 +0200
+
+    Fix building with maintainer mode of main-win.c
+
+commit b21a9869928913b8f4d701ed9bea4996b2f7b534
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Sun May 8 23:08:19 2011 +0200
+
+    Add linking to x11 for recent version of ld.
+
+commit adf169fa18fab24f71a635bc4aceea59ef66bc5d
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Sun May 8 23:02:24 2011 +0200
+
+    Add additional CFLAGS when running maintainer mode.
+
+commit f453c5fd7691a5c579a1201757e7160a9fbd5d20
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Sun May 8 22:50:46 2011 +0200
+
+    Add silent rules
+
+commit 1648ce84eb282d3cdc65ca314409b3ce62db8348
+Author: Julien Lavergne <gilir@ubuntu.com>
+Date:   Sun May 8 22:41:16 2011 +0200
+
+    Add a .gitignore
+
+commit 153074bc686a9921e6eb43d6435b955da3cbcf5e
+Author: knedlyk <yupadmin@gmail.com>
+Date:   Fri May 6 10:17:21 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user knedlyk.: 51 of 51 messages translated (0 fuzzy).
+
+commit 500f4c6549f6371fae21a7fa94240329a03debcf
+Author: knedlyk <yupadmin@gmail.com>
+Date:   Fri May 6 10:15:16 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user knedlyk.: 51 of 51 messages translated (0 fuzzy).
+
+commit 6896a26da8ccfe054b90f9372480a582d687da1e
+Author: PraveenIlla <mail2ipn@gmail.com>
+Date:   Wed Apr 27 13:26:49 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user PraveenIlla.: 51 of 51 messages translated (0 fuzzy).
+
+commit 63da30f5205530174adbbf48e3dc47aa1b73d253
+Author: zvacet <ikoli@yahoo.com>
+Date:   Mon Apr 18 00:06:13 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user zvacet.: 51 of 51 messages translated (0 fuzzy).
+
+commit bfc136bfdf8dfa2c55e45446275fc0e89e3ffb27
+Author: enginmanap <enginmanap@gmail.com>
+Date:   Fri Mar 11 17:34:26 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user enginmanap.: 51 of 51 messages translated (0 fuzzy).
+
+commit eb176bd32c7eb2d11cad4acd2223778b4b4246ea
+Author: enginmanap <enginmanap@gmail.com>
+Date:   Fri Mar 11 17:19:28 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user enginmanap.: 51 of 51 messages translated (0 fuzzy).
+
+commit 4d0b016800e5f9ab880f15b95cf85030c6e77acb
+Author: zvacet <ikoli@yahoo.com>
+Date:   Wed Feb 23 00:15:03 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user zvacet.: 51 of 51 messages translated (0 fuzzy).
+
+commit 508f61f43055206949ba57b69d5112e3b1f22104
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Fri Feb 18 16:39:26 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit a2c5a04a8eb4324859946ade6cc5dd80ca8c7fdb
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Mon Feb 14 15:00:33 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit c10afb43c6382399f0b0a89efafc1d9f1c6ea3aa
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Sun Feb 13 23:36:59 2011 +0100
+
+    Corrected error in sl.po with a unfortunate new line character
+
+commit cd8d603fe5b5052234f4962b6e990849cfec7885
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Sun Feb 13 00:02:26 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit 28f007999334007d904695b531852974fa019e9a
+Author: klemenkosir <klemen.kosir@gmx.com>
+Date:   Sat Feb 12 18:50:04 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user klemenkosir.: 51 of 51 messages translated (0 fuzzy).
+
+commit 89f81d704f857613be982444f0c01fd79ca760e2
+Author: forfolias <forfolias@gmail.com>
+Date:   Thu Feb 10 03:24:48 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user forfolias.: 51 of 51 messages translated (0 fuzzy).
+
+commit 7db1f7ff175b9185ca47bc4e294d08061353b560
+Author: andrejz <andrej.znidarsic@gmail.com>
+Date:   Wed Feb 2 17:37:54 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user andrejz.: 51 of 51 messages translated (0 fuzzy).
+
+commit 1d30b70a6c99bed8f798d46a45c4d59fdf6eca6c
+Author: zvacet <ikoli@yahoo.com>
+Date:   Tue Jan 4 11:26:59 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user zvacet.: 51 of 51 messages translated (0 fuzzy).
+
+commit ba494591bd0a19dc969bc1e7dc363a6d09e639e6
+Author: zvacet <ikoli@yahoo.com>
+Date:   Tue Jan 4 11:06:05 2011 +0200
+
+    Commit from LXDE Translation Project with Pootle by user zvacet.: 51 of 51 messages translated (0 fuzzy).
+
+commit ebd0e077ec5c607a74811e44933815e57a4305a2
+Author: secipolla <ikisham@gmail.com>
+Date:   Mon Dec 27 23:57:51 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user secipolla.: 51 of 51 messages translated (0 fuzzy).
+
+commit c81d210c6506f17d3318a08b2f3e389acb8b3868
+Author: mazdac <mazdac@gmail.com>
+Date:   Fri Dec 24 01:10:43 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user mazdac.: 51 of 51 messages translated (0 fuzzy).
+
+commit 9fc9a8678df4cc0602aa838370f9423cd0246907
+Author: wilsonsamm <wilsonsamm@hotmail.com>
+Date:   Thu Nov 4 15:53:41 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user wilsonsamm.: 51 of 51 messages translated (0 fuzzy).
+
+commit 32ddbdcd9e0bb74c9beb08ffbc1e9d4ce6a68fef
+Author: wilsonsamm <wilsonsamm@hotmail.com>
+Date:   Thu Nov 4 11:19:08 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user wilsonsamm.: 48 of 51 messages translated (0 fuzzy).
+
+commit 5f21b41886095b271a490fcb097f13cf8492a589
+Author: brother <brother@bsnet.se>
+Date:   Wed Oct 20 10:03:13 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 3ef60f6deef27d938a8ae67e7696e382fe2441b5
+Author: kizito <kbirabwa@yahoo.co.uk>
+Date:   Tue Oct 19 22:51:38 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user kizito.: 51 of 51 messages translated (0 fuzzy).
+
+commit f041acf7903c5d82ef82016257ba4b330e51c0b7
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Sun Oct 17 21:42:10 2010 +0200
+
+    Belarusian (be) translation done
+
+commit 5270725996f563d4234d22605c0971142b32d3c9
+Author: secipolla <secipolla@gmail.com>
+Date:   Fri Oct 15 13:17:48 2010 +0000
+
+    l10n: Updated Portuguese (Brazilian) (pt_BR) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 0254cc0aee0383dd623dce6753ea686f146ae8a5
+Author: Yinghua_Wang <wantinghard@gmail.com>
+Date:   Fri Oct 15 07:34:44 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user Yinghua_Wang.: 50 of 51 messages translated (1 fuzzy).
+
+commit 6dbb913d73c3a5de238a9d3e864708b0a50627c6
+Author: Sérgio Marques <smarquespt@gmail.com>
+Date:   Tue Sep 14 21:26:20 2010 +0000
+
+    l10n: Updated Portuguese (pt) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit d180379745adc69b402ed9c8db136aadc7eed1bf
+Author: brother <brother@bsnet.se>
+Date:   Mon Sep 6 08:58:39 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit ce5177ed3316ba8432cae1f49a5b9ad2c61082d3
+Author: Mehmet Gülmen <memetgulmen@gmail.com>
+Date:   Sun Sep 5 20:31:20 2010 +0000
+
+    l10n: Updated Turkish (tr) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 09f07229f50f1a774967ab77fa80316cdfc90840
+Author: brother <brother@bsnet.se>
+Date:   Mon Aug 30 20:20:12 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 37 of 51 messages translated (0 fuzzy).
+
+commit a2e96aa5841e5f65636b3192d7c208c39ceadd99
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Tue Jul 6 09:09:06 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 76c011d8dba325bca9e4ff610272f08ef6f46efb
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Fri Jun 25 14:41:33 2010 +0000
+
+    l10n: Updated Finnish (fi) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 0de866fa94b896d5fab141f17b58a61e602e5ecb
+Author: Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+Date:   Thu Jun 24 08:51:37 2010 +0000
+
+    l10n: Initial translation to Kazakh
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit bf812a93567995e997ec1e3a0563db121146fc90
+Author: bojang <neo.bojang@gmail.com>
+Date:   Thu Jun 17 08:05:33 2010 +0000
+
+    l10n: Updated Thai (th) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit b1a1339f21f01a6fa0432de866fd2c5995a91b93
+Author: bojang <neo.bojang@gmail.com>
+Date:   Thu Jun 17 07:46:10 2010 +0000
+
+    l10n: Updated Thai (th) translation to 64%
+    
+    New status: 33 messages complete with 0 fuzzies and 18 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 730f79f2b872f76ff82f4af24d884dc9ba834f43
+Author: Jay Alexander Fleming <tito.nehru.naser@gmail.com>
+Date:   Tue Jun 15 10:58:44 2010 +0000
+
+    l10n: Serbian (latin) translation
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 0413f40d550068b35f6b46a1ad8273991af5ba70
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Tue Jun 8 20:31:16 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 5100d7525ee48b433c0daaa50e84e29fe405ef5c
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Mon Jun 7 17:08:15 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 5194d00656c3bad462a03aac07fd3bac28d01325
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Mon Jun 7 10:36:28 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit fd73a2150960a228ae7f4a4443d9ff87b60a2df2
+Author: Sérgio Marques <smarquespt@gmail.com>
+Date:   Wed Jun 2 13:15:13 2010 +0000
+
+    l10n: Updated Portuguese (pt) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 0f1ef00d4b863d7af43db797b263c672a5ec976b
+Author: zvacet <ikoli@yahoo.com>
+Date:   Sun May 30 22:35:14 2010 +0000
+
+    l10n: Updated Croatian (hr) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 005c2a0852ed2cc4ee019ef4693a31533a187699
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Tue May 25 21:30:53 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 1740ead392a2173ef715718ec7bd12e81d2744f3
+Author: Jay Alexander Fleming <tito.nehru.naser@gmail.com>
+Date:   Tue May 25 09:34:59 2010 +0000
+
+    l10n: Updated Serbian (sr) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit c86bbc46bdae4ed59db6ad8859230f86252057ed
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Sun May 23 19:27:04 2010 +0200
+
+    Removing misplaced new line from bn_IN.po
+
+commit 348768b63e63e7f4f6494a3f81be6e23535fc357
+Author: Hugo Florentino <sysadmin@cips.cu>
+Date:   Tue May 18 10:36:31 2010 +0000
+
+    l10n: Updates to Spanish (Castilian) (es) translation
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit db8e5f6a4119903b8dd8d725e7cf9b4134d14432
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Tue May 18 11:16:31 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit b65cbdef8d4ba76e7145c345bcb328ef118a5e85
+Author: LinoSP <ljsp1@hotmail.com>
+Date:   Sun May 16 16:59:57 2010 +0000
+
+    l10n: Updated Spanish (Castilian) (es) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 43cc45b7d1f187dc1f0a90667a73ad9b105f3cf7
+Author: LinoSP <ljsp1@hotmail.com>
+Date:   Sun May 16 16:54:58 2010 +0000
+
+    l10n: Updated Spanish (Castilian) (es) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 634a29d49f74f2c5aeb3534f51a62fa333e96390
+Author: Piotr Strębski <strebski@o2.pl>
+Date:   Thu May 13 21:37:50 2010 +0000
+
+    l10n: Updated Polish (pl) translation to 100%
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit 6ac66b90f050b9977bd580abee2a54189f964ef4
+Author: Iñigo Varela <ivarela@softastur.org>
+Date:   Sat May 8 13:51:52 2010 +0000
+
+    l10n: Updates to Asturian translation
+    
+    New status: 51 messages complete with 0 fuzzies and 0 untranslated.
+    
+    Transmitted-via: Transifex (www.transifex.net).
+
+commit c6ad25e86305c49c9c26ab85f61360fdb5198972
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Sun Apr 18 09:50:46 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit f9b845cc89aa20d892c7890dba6cf828c530f520
+Merge: 5fcb474 a6b1803
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Wed Apr 14 21:18:34 2010 +0200
+
+    Merge branch 'master' of git://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+    
+    Conflicts:
+    	po/vi.po
+
+commit 5fcb474ffb25389615f0a57bdb17ce87835effc9
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Wed Apr 14 21:09:07 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit a6b180392f04e077fb528fb8d3bd5fbcded53cab
+Author: taljurf <taljurf@fedoraproject.org>
+Date:   Wed Apr 14 16:50:57 2010 +0000
+
+    l10n: Updates to Arabic (ar) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 593ec7d7138c8d5537d717dda23ff5e0cb7b37e1
+Author: Duy Hung Tran <nguyentieuhau@gmail.com>
+Date:   Wed Apr 14 15:56:34 2010 +0000
+
+    l10n: Updates to Vietnamese (vi) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit b51493d05680ed0f667437ff1ca2a617c30db1d4
+Author: Duy Hung Tran <nguyentieuhau@gmail.com>
+Date:   Wed Apr 14 15:54:08 2010 +0000
+
+    l10n: Updates to Vietnamese (vi) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 1caa2acb6ce7257bba06187673c082f4f6448557
+Author: Duy Hung Tran <nguyentieuhau@gmail.com>
+Date:   Wed Apr 14 15:52:30 2010 +0000
+
+    l10n: Updates to Vietnamese (vi) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 9d07a33ccadd6cf47f04cdf02c333fa96cdcd1a7
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Fri Apr 9 16:10:00 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 204fcc0615ee8282884477e70aa4e3fe5afef2a7
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Thu Apr 8 17:38:33 2010 +0200
+
+    Updating translation for French
+
+commit 5fb988fdb6842560b0b65083e2fb0acf450b832b
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Wed Apr 7 22:57:24 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit c76835667d603732b147501fb07e62d6620f638c
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Tue Apr 6 01:16:14 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 4367e2ea8717d35eb2c069f5e16eac500dfdca83
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Mon Apr 5 17:54:44 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 29 of 51 messages translated (0 fuzzy).
+
+commit 77790a5667583822f53c6a12fdee95097ab492de
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Fri Apr 2 12:14:14 2010 +0200
+
+    Removing misplaced new line from fo.po
+
+commit 7ca0f7a14034004717784cf9c734f9a67d085b69
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Wed Mar 31 11:16:58 2010 +0200
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 15d53a8af058d82b721f4a424b3314850f933c23
+Merge: de55c4c f784489
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Mon Mar 29 23:07:36 2010 +0200
+
+    Merge branch 'master' of git://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+
+commit de55c4c511bb8c18a86e27f830116bfe8790f65c
+Author: Martin Bagge / brother (or Pootle...) <brother@bsnet.se>
+Date:   Mon Mar 29 23:07:21 2010 +0200
+
+    Changes from Pootle
+
+commit f784489a1e54b8fea1a9b3222ec5f9f7359fd941
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Sun Mar 28 14:48:05 2010 +0000
+
+    l10n: Updates to English (United Kingdom) (en_GB) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 8c8dcb68469d7203f9562963081e5751e3fb57fe
+Author: Andrea Florio <anubis@suse-netbook.site>
+Date:   Sat Mar 20 15:40:35 2010 +0100
+
+    removed exec bit
+
+commit 7b102529be9ba98405675181bc06244d81eaf5da
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Fri Mar 19 22:58:04 2010 +0000
+
+    l10n: Updates to English (United Kingdom) (en_GB) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 88f93845671ba278993d0ba99a83e133c7e8c5d5
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Fri Mar 19 22:54:41 2010 +0000
+
+    l10n: Updates to English (United Kingdom) (en_GB) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit b4ed7957cae17b305db5254d4f7d1690c62e9c7e
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Fri Mar 19 21:59:46 2010 +0000
+
+    l10n: Updates to English (United Kingdom) (en_GB) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit feab4581ec5b1aeb081a186090160dee6fd37103
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Fri Mar 19 21:54:19 2010 +0000
+
+    l10n: Updates to English (United Kingdom) (en_GB) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 8b549e9ce18be336f6526ebee8961964dde9899e
+Author: Steve Cook <yorvik.ubunto@gmail.com>
+Date:   Fri Mar 19 21:43:19 2010 +0000
+
+    l10n: Initial UK English en_GB translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit b238149b10e1dff0b02386fea887b590c5c17cac
+Author: Yarema aka Knedlyk <yupadmin@gmail.com>
+Date:   Wed Mar 17 21:46:51 2010 +0000
+
+    l10n: Updates to Ukrainian (uk) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 842867e849384d559c7e16116bfe489f56df6aae
+Author: root <root@l10n.bsnet.se>
+Date:   Sun Mar 14 19:24:25 2010 +0100
+
+    Resynching and checking file status after merge hell.
+
+commit eb4bd01b10fa5fb4282d5f9ed5882825a0b74480
+Author: root <root@l10n.bsnet.se>
+Date:   Sun Mar 14 19:17:17 2010 +0100
+
+    Some more changes from Pootle
+
+commit d8769a756b7e9348ed7e251ec12c0016f62752c0
+Merge: 0f32407 483c996
+Author: root <root@l10n.bsnet.se>
+Date:   Sun Mar 14 19:16:17 2010 +0100
+
+    Merge branch 'master' of ssh://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+    
+    Adding a horrible POT conflict and stuff. Strangle me if you like.
+    
+    Conflicts:
+    	po/da.po
+    	po/fr.po
+    	po/pl.po
+
+commit 483c9961bd45258af6958d157aee64578afd72ec
+Author: Piotr Sokół <piotr.sokol@10g.pl>
+Date:   Sun Feb 28 10:20:28 2010 +0000
+
+    l10n: Updates to Polish (pl) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 0f32407e901f163573b7a5122920298938c72358
+Author: root <root@l10n.bsnet.se>
+Date:   Tue Feb 23 14:09:49 2010 +0100
+
+    Resync and adding missing languages to LINGUAS
+
+commit 19cb99ad2a2c340e1c3556c0393e13ab62262e4d
+Author: root <root@l10n.bsnet.se>
+Date:   Tue Feb 23 14:07:30 2010 +0100
+
+    Adding Thai and resynchronizing files
+
+commit f79b86242db3ed503d69420d9ce46b5cce0e6376
+Author: Joe Hansen <joedalton2@yahoo.dk>
+Date:   Sat Feb 20 15:00:29 2010 +0000
+
+    l10n: Updates to Danish (da) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit d6b4de5fcdc9a2e07f9d347a868bbd66850f6d38
+Author: Emmanuel Trillaud <etrillaud@gmail.com>
+Date:   Wed Feb 17 18:59:20 2010 +0000
+
+    l10n: Updates to French (fr) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit eaef82a8d77c4ef73b5b49b1590cc3b35c02222e
+Author: Sérgio Marques <smarquespt@gmail.com>
+Date:   Sat Feb 13 18:58:06 2010 +0000
+
+    l10n: Updates to Portuguese (pt) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit b9346d8a4845ce865971ebd492c0f30840a4a491
+Author: Og Maciel <ogmaciel@gnome.org>
+Date:   Sat Feb 6 15:36:18 2010 +0000
+
+    l10n: Updates to Portuguese (Brazilian) (pt_BR) translation
+    
+    Transmitted-via: Transifex (www.transifex.net)
+
+commit 74e671b346b7c6077182775cec876c5da9457805
+Author: Ming-Ting Yao Wei <mwei@lxde.org>
+Date:   Sat Feb 6 22:12:22 2010 +0800
+
+    SVN changes after git sync
+
+commit fc761902321d1df3a416a4a1e0412b9f5a6cc306
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Feb 3 22:25:49 2010 +0000
+
+    Updates from Pootle
+
+commit 4b8fb255f2753974ec6943f5b5f135eb332f30b4
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Feb 1 18:23:52 2010 +0000
+
+    Commit from LXDE Translation Project with Pootle by user brother.: 51 of 51 messages translated (0 fuzzy).
+
+commit 698bfb5932d441aa94cdfcc2aa0f9cfcd7e9247b
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Feb 1 16:28:57 2010 +0000
+
+    Updates from Pootle
+
+commit 2cebe3222b10503ed004e74d172738d79d7943b3
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Jan 30 15:32:22 2010 +0000
+
+    Updates from Pootle
+
+commit 725be83875cc37d4a06b1d49019559432c3907f7
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jan 27 17:48:47 2010 +0000
+
+    Updates from Pootle
+
+commit 9b5185127516db7723f36540a70ff718528f347e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jan 25 17:57:05 2010 +0000
+
+    Updates from Pootle
+
+commit 384f920a41f365732dcb46202afbb950cf1e011b
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jan 25 08:10:34 2010 +0000
+
+    Update from Pootle
+
+commit d710673608bc769fb66c375f9ada0c351106651e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Jan 24 20:56:39 2010 +0000
+
+    Updates from Pootle
+
+commit 833791697b8cca3a5cbebd6d53faab8fb5d8e5f5
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Jan 21 13:08:36 2010 +0000
+
+    Updates from Pootle
+
+commit 73b16537f74412f942a85740f1d5174b4afa7d58
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jan 18 16:21:11 2010 +0000
+
+    Updates from Pootle
+
+commit 067ba9f4af178c427276e777fd3f721f4e9a283c
+Author: helix84 <helix84@centrum.sk>
+Date:   Sat Jan 16 18:24:06 2010 +0000
+
+    * [INTL:sk] Slovak translation update
+
+commit 831af3a711ebe50fa82c229f9e38279bac0035f1
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jan 13 17:04:21 2010 +0000
+
+    Updates from Pootle
+
+commit 94b9f3c395492a536428cd8ecdd45d9bd38c8051
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Jan 12 13:39:37 2010 +0000
+
+    Commit from LXDE Translation Project with Pootle by user forfolias. 51 of 51 messages translated (0 fuzzy).
+
+commit 60641e9e4f51852ac0331840b7b2db3619137a90
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Jan 12 01:16:55 2010 +0000
+
+    Resynchronized all languages and added LXDM to the Pootle server.
+
+commit 1d8bb1e00921fe05c69ef8e2063f7d8fb88bba45
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jan 6 15:13:55 2010 +0000
+
+    Resynchronized LXMUsic po files.
+    Updated translations for NN(closes 2923866), PL(closes 2923085) and ET(closes2922945 ).
+
+commit d06510135d92175d0a99a6db9cbbe44a13b5d828
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Jan 3 18:49:10 2010 +0000
+
+    Commit from LXDE Translation Project with Pootle by user ליאל. 44 of 44 messages translated (0 fuzzy).
+
+commit 882d76b8294f056ee63e6a20385ea12bac1612a9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Dec 10 17:47:20 2009 +0000
+
+    Updates from Pootle
+
+commit f64ecd12a0cac0a9427f9b999bf08a94b1be67e7
+Author: majkl <majkl82@users.sourceforge.net>
+Date:   Wed Dec 9 16:41:57 2009 +0000
+
+    Czech translation updated
+
+commit 5f83c11bab15a79d24ba3d2312e84c016c2ea159
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Dec 3 15:59:50 2009 +0000
+
+    Updates from Pootle
+
+commit 0c46cf54d76c644fffd9427157f36828b05aaf5c
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Nov 21 23:44:28 2009 +0000
+
+    NB updated in Pootle
+
+commit 6359b0ec396c914ded311eeba4ab3991e18dba70
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Nov 15 15:34:20 2009 +0000
+
+    Update from Pootle
+
+commit e56253ea35170878724b00e3ac3123ed6f727228
+Author: martyj19 <martyj19@comcast.net>
+Date:   Sun Nov 1 18:13:11 2009 +0000
+
+    Credit slideshow work as per Puppy Linux contributor's wishes
+
+commit b968a1ad6d2030aa6edc8a4327a6dca8fe7c602d
+Author: Funda Wang <fundawang@mandriva.org>
+Date:   Sun Nov 1 03:32:31 2009 +0000
+
+    use intltool to generate desktop files
+
+commit ea64259496c135ace05e5ede351e29eb803b07fc
+Author: Christoph Wickert <christoph.wickert@googlemail.com>
+Date:   Sun Nov 1 00:52:24 2009 +0000
+
+    gpicview: add german and portuguese translation to desktop file
+
+commit 3d10ffe515537a9455956e0ec18cef6259219747
+Author: Funda Wang <fundawang@mandriva.org>
+Date:   Sat Oct 31 15:02:45 2009 +0000
+
+    updated zh_CN translation
+
+commit b04f170f8c7a1723357d2daf9c17464032e9fc01
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Oct 27 20:17:41 2009 +0000
+
+    Adding Arpitian to repository. It's almost halfway translated.
+
+commit 1cc7fa45a47967d696130e79e703de9b1607b5b0
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Oct 27 20:11:05 2009 +0000
+
+    Updates from Pootle
+
+commit 763266b6f6abb3f0350ab45fda88d5c4327a0aca
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Oct 27 10:32:22 2009 +0000
+
+    Updates from Pootle
+
+commit ba3e220a955b2ac8fff3bd6bc2009f3e05ffe8d1
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Oct 11 12:53:39 2009 +0000
+
+    Updates from Pootle
+
+commit 044a61c7e28df91c4908afd91cf284507f446414
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Oct 8 12:02:33 2009 +0000
+
+    Updates from Pootle
+
+commit 9dab1f5a7af1d0f6ffabcf180842167a45d15b63
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Sep 30 09:08:48 2009 +0000
+
+    Major update from Pootle
+
+commit fd09d1506e4ef4467638414d1c3d9a9915a94259
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Sep 29 15:06:58 2009 +0000
+
+    Commit from LXDE Translation Project with Pootle by user Yaron. 44 of 44 messages translated (0 fuzzy).
+
+commit 1b06c84f0f5828cb19a3167598640a747a241730
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Sep 29 10:01:47 2009 +0000
+
+    Updates from Pootle
+
+commit 55e9d613b32d50eb6068173b2d9c3f63e58cec73
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 28 11:20:08 2009 +0000
+
+    Corrected LINGUAS for all available files in GPicView
+
+commit a2d74ac8f16dedd38be594bf4b04a777408d40a9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 28 11:04:27 2009 +0000
+
+    Commit from LXDE Translation Project with Pootle by user ליאל. 44 of 44 messages translated (0 fuzzy).
+
+commit 4dbf3be394b0d62a9c9871e369259274e0934d4e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Sep 23 14:00:19 2009 +0000
+
+    Updates from Pootle (Hebrew almost done!)
+
+commit e14c9062c199fb6f6310bd8017bc6fb3a8b8e462
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 21 11:52:59 2009 +0000
+
+    Adding two new languages (Hebrew and Catalan), almost completed too!
+
+commit cde5700e39cda92448f93afe37e0996a9bcb4cf4
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Sep 12 18:31:50 2009 +0000
+
+    Updated translations from Pootle
+
+commit 0e51f5401c14833ce4767257cd263c968aadf73f
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri Sep 11 09:08:37 2009 +0000
+
+    Updated translations for Lithuanian, Idonesian and Galician from Pootle
+
+commit 1db2fc5e5c618a94f0f6994d5485791a01f997b9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Sep 8 13:20:25 2009 +0000
+
+    Adding Serbian translations from Jay A. Fleming <tito.nehru.naser@gmail.com>
+    Closing 2854150 2854227 2854226 2854225 2854222 2854220 2854218 2854216
+
+commit b69f7fb9e6fd35bedb76bc7a05bd7921f2a46a47
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 7 22:12:21 2009 +0000
+
+    Adding Bulgarian PO files.
+    Adding Serbian PO files.
+    Adding Malay PO files.
+    Updated LINGUAS files were appropriate.
+    Resynchronize PO file after corrected missspelling of LXLauncher.
+
+commit 804915e9390c0213cc23660492efcebc5c3bf9c4
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 7 21:42:24 2009 +0000
+
+    Adding Serbian as translatable language (with a huge contribution from Jay Alexander Fleming <tito.nehru.naser@gmail.com>
+    Closing the following issues in SF.net patch tracker:
+    2853396
+    2853398
+    2853408
+    2853411
+    2853412
+    2853413
+    2853414
+    2853415
+    2853416
+    2853417
+    2853419
+    2853422
+
+commit c8fce217e84de6a2a41b07daa6a384fb39ac3845
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Sep 7 21:31:53 2009 +0000
+
+    added proper charset heading for bn_IN
+
+commit d23883d96259ff3ecce2622e3cb667fc3725981d
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Aug 31 07:17:00 2009 +0000
+
+    Updated Japanese translations from Hironao Komatsu
+
+commit 85fac5ad175c8f982c50e39d287c039a54d09f12
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Aug 30 19:56:16 2009 +0000
+
+    Resynchornization with POT files for various PO files.
+
+commit 409aeb397b31769d26806b9e546c4867937bad36
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Aug 30 19:25:28 2009 +0000
+
+    Estonian translation updates from Mahfiaz (closing 2843196)
+    Norweigan Nynorsk translation updates from Karl Ove Hufthammer (closing 2834106)
+    Updated Portugese translation of LXMusic (closing 2836149)
+    Updated Russian translation of LXPanel from Alexander Kazancev (closing 2836225)
+
+commit 7b99d88e2c941918a13999eba89e0fd2c668eac8
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Jul 28 16:17:54 2009 +0000
+
+    Updated Norweigan Nynorsk translations from Karl Ove Hufthammer <karl@huftis.org>
+
+commit ce12a69ef4aa66250fea0ff662ba33b335d4f3a2
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jul 27 09:11:01 2009 +0000
+
+    Update from Pootle
+
+commit 425af384929999e7c457eaa47c9be16c27ef2080
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Jul 26 11:50:19 2009 +0000
+
+    Major updates for zh_TW and bn_IN
+
+commit 8260e23f9cb09bf53d3a39be5b798b072a28c25a
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jul 22 16:48:52 2009 +0000
+
+    Greek translations update from George Vasilakos (closing 2825029)
+    Portugese transaltion update (closing 2824781)
+    Indonesian translation update from Andhika Padmawan (closing 2824300)
+
+commit 775a8e5c859191641ee664691062ec88df00686c
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jul 20 06:59:15 2009 +0000
+
+    Updates from Pootle (Spanish and Arabic for LXPanel and Czech for GPicView)
+
+commit 25fca82dc260f8d72a50d6304dfac2f5486a32e0
+Author: Mario Blättermann <mbl103@t-online.de>
+Date:   Sun Jul 19 11:43:58 2009 +0000
+
+    Updated German translation
+
+commit ebee501a90c32232bed7cf847ffbea99e37e4c52
+Author: martyj19 <martyj19@comcast.net>
+Date:   Sat Jul 18 11:39:36 2009 +0000
+
+    Implement slideshow feature (FR2089496) based on patch from Puppy Linux
+    Add --slideshow to start slideshow from command line for unattended operation
+    -Wall lint cleanups
+
+commit ed14be054cb207119c90c1f3f540a842a80c25f3
+Author: martyj19 <martyj19@comcast.net>
+Date:   Mon Jul 13 16:57:05 2009 +0000
+
+    Fix SUSE lint warnings
+
+commit 63e998ac067316dce5144aeec282a899b9099971
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri Jul 10 08:21:30 2009 +0000
+
+    Updates from Pootle.
+
+commit c968e6993db606c2eab7f6a04365c92ffea201c8
+Author: Jürgen Hötzel <juergen@archlinux.org>
+Date:   Wed Jul 8 12:40:37 2009 +0000
+
+    remove distribution of mkinstalldirs
+    
+    MKINSTALLDIRS is deprecated (use MKDIR_P)
+
+commit 8a4534a48da68ac883ed608fcf3659f61ab00bbc
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jul 6 17:59:10 2009 +0000
+
+    Updates from Pootle for Czech and Swedish.
+
+commit 95775fd7763fea7e8dfe6aad853ff493c5cf53ec
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Jul 1 14:12:22 2009 +0000
+
+    New language! Greek by team led by George Vasilakos (closing 2814136)
+    Updated Russian translation by Alexander Kazancev (closing 2814089 and 2814085)
+    Updated Slovenian translation by pax_man (closing 2813625)
+
+commit c5df417eeaf0ecad97258e1716dd9b1f9016aace
+Author: martyj19 <martyj19@comcast.net>
+Date:   Mon Jun 29 20:54:15 2009 +0000
+
+    Release 0.2.1
+    Apply Project Standard Autogen
+
+commit 375fdfdc4c81a61469c2b47533fd44c6ae92a142
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Jun 20 14:05:19 2009 +0000
+
+    Updated translations from Pootle
+
+commit 539c23868d45a12e7bb8c155d87fd8c67d3c6fb2
+Author: Ming-Ting Wei <mwei@lxde.org>
+Date:   Thu Jun 18 03:39:43 2009 +0000
+
+    Japanese translation including ".desktop" description file
+
+commit fecf68e0418a5472d8f821869504d3175151d846
+Author: martyj19 <martyj19@comcast.net>
+Date:   Mon Jun 8 23:24:52 2009 +0000
+
+    Incorrect behavior when nonexistent file on command line (Bug2802150)
+    - Error dialog not visible
+    - GTK assertion
+    GTK assertion under certain scrolling conditions that cause zero width/height to be requested (Bug2802153)
+
+commit f4af5fd463e5d6139a5dcbba7955d0d38f8e8b8b
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Jun 8 08:45:51 2009 +0000
+
+    Updated French and Malay translations from Pootle
+
+commit 987a9cc04e43e830f43af3e95dca7021fc2ae5f1
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Jun 4 20:22:41 2009 +0000
+
+    Updated translations from Pootle
+
+commit b2da0f47e3178c1d9c2635970fda98a4f38c4b42
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun May 31 20:33:45 2009 +0000
+
+    Updated Spanish translations from Pootle
+
+commit c9c6049920941eba1ab140b3585c12fc147c00f4
+Author: martyj19 <martyj19@comcast.net>
+Date:   Fri May 29 17:44:58 2009 +0000
+
+    Release 0.2.0
+    Re-add lost A keyboard accelerator
+
+commit 2164ef43d83f9530879eb77e47bbc868e472778a
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 28 20:43:19 2009 +0000
+
+    Updated translations from Pootle
+
+commit b5128d151be74628fcc1c16271ffc6e433993134
+Author: Peter Zsolt Basak <shiki.biomernok@gmail.com>
+Date:   Thu May 28 17:04:01 2009 +0000
+
+    Corrected some strings in gpicview and translator credits in lxpanel and gpicview
+
+commit cf22374f3f6e47242184b0a10bfe9671fa55aaf5
+Author: Peter Zsolt Basak <shiki.biomernok@gmail.com>
+Date:   Thu May 28 16:17:40 2009 +0000
+
+    Fixed some strings and translated panel plugins
+
+commit e4bb7986b3ec88d747b3ea0fac5219cf1485b018
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue May 26 13:18:13 2009 +0000
+
+    Reoved \r as control sequence.
+
+commit dbe5552431339fd672ed002243897009bac4a953
+Author: Og Maciel <ogmaciel@gnome.org>
+Date:   Tue May 26 13:08:37 2009 +0000
+
+    Updated Brazilian Portuguese translation.
+
+commit 4f9775ac621e820bdec461440ccc3edc5f269613
+Author: SZERVÁC Attila <sas@321.hu>
+Date:   Mon May 25 13:44:18 2009 +0000
+
+    [intl:hu] update1 (gpicview), lxappearance
+
+commit 27a81130bac568231113566e98d1cf164e9e00b8
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun May 24 12:18:48 2009 +0000
+
+    Updated translations and make files for Spanish and Malay
+
+commit 71a6d93b743652b7e80725de93867006a1fd4479
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun May 24 07:40:19 2009 +0000
+
+    Updated Slovak translation from helix84 (closing 2795765)
+
+commit 1ed3131631b937c8b113ff3e1479029bbc6823fc
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat May 23 23:35:38 2009 +0000
+
+    Commit from (unofficial) LXDE Pootle by user payne. 44 of 44 messages translated (0 fuzzy).
+
+commit 4d41651f763d447cdb5528f65c84d087804ef959
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat May 23 14:42:12 2009 +0000
+
+    Removed a trailing \n that corrupted the file.
+
+commit 69b2f230c5e924dd6874113df43b1f2f285dd784
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat May 23 13:15:44 2009 +0000
+
+    Updated transaltions from Pootle
+
+commit 8dca8b5418685dfa391389ae37cf0160509882ba
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat May 23 09:38:11 2009 +0000
+
+    Updated translations from Pootle
+
+commit b66ddd4699b6957812b69052fe40ef47a02181f9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 22 17:47:29 2009 +0000
+
+    Update translations from Pootle
+
+commit 7e1824571587614c24c1e83cdd448262d6a27ea4
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 22 12:09:47 2009 +0000
+
+    Updated translations from Pootle
+
+commit b1efba33371719241afb6057c906d92224b22916
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 22 07:40:55 2009 +0000
+
+    Some more \r\n
+
+commit e4c344a9bca0181f808b89379ff10e486cc4e7e6
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 22 07:16:31 2009 +0000
+
+    Updated Malay translations from Pootle
+
+commit 26fe10798271547b99e16df3ea2c0050791e844c
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 19:09:13 2009 +0000
+
+    Updated Croatian translation for GPicView
+
+commit 7d099ba898d68cc8a3ba1687528cb0e508079ce7
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 18:20:30 2009 +0000
+
+    Corrected error in russian translation.
+
+commit fe32042d6c121e0da77ad14cc9cc8c232ca5f964
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 15:35:54 2009 +0000
+
+    Updated translations from Pootle for GpicView for Russian, Slovenian and German.
+
+commit 3c1f834ccba88746ec89269bd7e22972ff496c34
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 15:25:53 2009 +0000
+
+    Urdu translation updates from Muhammed Ali Makki.
+
+commit 3eaed6667b91893467f56cbacebdbaf454450155
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 13:24:49 2009 +0000
+
+    Updated Malay translation file (a new line char too much rendered the file corrupt)
+
+commit e862d44ab954ce2ff15b3478aef765738012fcac
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 11:10:18 2009 +0000
+
+    Updated Japanese, Polish, Portugese and Slovak translations for GPicView. (closing 2793985, 2793932 and 2793096)
+    Updated Japanese and Portugese translations for LXPanel plugin Thermal (closing 2793932)
+    Updated Portugese translations for LXPanel plugins (closing 2793932)
+    Updated Protugese translations for LXPanel, LXRandr, LXSession, LXTask, LXTerminal (closing 2793932)
+
+commit c127c1fca9ad39c7976bd0acf9593f0e5245bd24
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu May 21 10:47:12 2009 +0000
+
+    Malay translation from Pootle
+
+commit 5a059a3edf023eb444542f5fc1a97aa5f69a7746
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed May 20 07:46:11 2009 +0000
+
+    Translation updates from Pootle
+
+commit 51ec33c84fb6f1b2dc8c340b084ebe5a489440fd
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue May 19 13:19:13 2009 +0000
+
+    Updates from Pootle
+
+commit 7e1dcec17d0a18cd3526f0744a868ec9c8574ad7
+Author: martyj19 <martyj19@comcast.net>
+Date:   Tue May 19 12:57:50 2009 +0000
+
+    Fix autogen.sh (previous didn't work at all)
+    Warning cleanups
+
+commit 649545fea48b33616132f977a535e7e347a5af6f
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue May 19 12:11:47 2009 +0000
+
+    Adding Afrikaans, it's almost complete in core components!
+    Updated translations for GPicview, lxinput and LXMusic
+
+commit fb74446f378380621955389c1c1e721d753c76ef
+Author: martyj19 <martyj19@comcast.net>
+Date:   Tue May 19 02:21:19 2009 +0000
+
+    Ensure that updates to JPG and PNG quality parameters are saved if they are changed in the file dialog
+    Warning cleanups
+
+commit b0fd70a00b68d5a9ad891d5004fe4781f9677f5e
+Author: martyj19 <martyj19@comcast.net>
+Date:   Mon May 18 23:32:50 2009 +0000
+
+    Fix open-maximized
+    Fix color save
+
+commit f7401dea79aba299ac3734f3e5812642aaaa08aa
+Author: martyj19 <martyj19@comcast.net>
+Date:   Mon May 18 15:52:59 2009 +0000
+
+    Add icons for flip
+    Fixes to ask-before-delete and delete file
+    Fix to uppercase Q accelerator
+
+commit 88a2f579a410835b0fd0f076b09d00d42926b61f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon May 18 15:29:41 2009 +0000
+
+    Fix a string in UI
+
+commit 10196ff503a9b258d1654ed51924f54e03833d5f
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun May 17 17:05:10 2009 +0000
+
+    Slovenian, Ukrainian, Arabic and German updates from Pootle.
+
+commit a4fee12722ecd045537a90a20161206a16b556ce
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 14:12:55 2009 +0000
+
+    Remove unused file. Update zh_TW locale.
+
+commit 2ae9acf5e232b2c8f490548651ff5ec40e658c8f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 11:05:43 2009 +0000
+
+    Add missing file.
+
+commit f54c74cfee2627bc8502632991d12db087ce1e5a
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 10:46:48 2009 +0000
+
+    Use newer version of intltool. Use po/LINGUAS file to replace ALL_LINGUAS in configure.in.
+
+commit 701822a6fcc46d20f09a2b508ae9e5b68ea51c87
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 10:27:00 2009 +0000
+
+    * Supporting save png and jpeg with different compression levels.
+    * Some important bug fixes.
+    * UI polishing.
+    * Take ideas from oxaric, and re-implement those functionality.
+    * GIF animation support.
+    * Prepare to release GPicView 0.2.
+
+commit 07db5c2fae7c16986fd7cd546ebabb42a5510f8e
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 04:00:16 2009 +0000
+
+    Disable rotation & flip when the image is an animation.
+
+commit d8d4497673efa3ff1208522682488941d74b5b6a
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 03:35:46 2009 +0000
+
+    Partially support GIF animations.
+
+commit 794cac1aea7aff33f27229bebde63d48bda404a6
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun May 17 02:14:39 2009 +0000
+
+    Support changing background color in gpicview.
+
+commit 11183c382f7507d9799d9ff7279c423fc81ab577
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun May 17 01:09:21 2009 +0000
+
+    Ukraine, Spanish and Danish updates from Pootle
+
+commit 8812b87c0336ae52455e5b4c6f1eefd7eb1fd43c
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 16 17:51:59 2009 +0000
+
+    Use GtkBuilder to create preference dialog of GPicView.
+
+commit 1c8a8ba729f895c34223ddb787ecee564f9b2fd0
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 16 12:48:06 2009 +0000
+
+    Revert to r1463 temporarily, and try to integrate changes by oxaric in 1464-1465 later.
+
+commit 8ff83a68350f1bf92a0d42eebc77e1de0773ec41
+Author: Ying-Chun Liu (PaulLiu) <grandpaul@gmail.com>
+Date:   Fri May 15 17:40:23 2009 +0000
+
+    Fix minor warnings
+
+commit 827117ce7e1c50c1912547d3081dc84440f74630
+Author: Louis Casillas <oxaric@gmail.com>
+Date:   Fri May 15 10:21:35 2009 +0000
+
+    Oxaric:
+    Second attempt to commit changes.
+
+commit 3c8e14715ef1d566133e3aa2d8ffc855e77495bd
+Author: Louis Casillas <oxaric@gmail.com>
+Date:   Fri May 15 08:04:36 2009 +0000
+
+    Oxaric's (Louis Casillas) code, makes these changes to the old code:
+    
+    *added animation support, i.e. gif support (currently uses a lot of memory)
+    *added -v, --version arguments on command line
+    *added preference option to delete without confirmation
+    *added horizontal and vertical flip icon
+    *added About button on main window and Preference mouse in mouse popup
+    *added error message if a certain image type is not supported
+    *added the maximized state in configuration
+    *added background color select in preference menu, save in configuration
+    *added jpeg quality option 0 to 100 in save as
+    *added png quality option 0 to 9 in save as
+    *added auto file type detection in save file as
+    *added when you save new image then switch to that image
+    
+    *fixed lost preference bug
+    *fixed horizontal and vertical flip
+    *fixed gpicview link in About
+    *fixed fullscreen bug
+
+commit 2f951bc41ceeae32060b32eb204c061cf4338068
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed May 13 06:43:50 2009 +0000
+
+    Updated strings for GPicView, resync pot file for Dutch LXPanel.
+
+commit aab0b120f73201d3c38a1212f909bb26fd2ba06b
+Author: martyj19 <martyj19@comcast.net>
+Date:   Wed May 13 01:04:09 2009 +0000
+
+    Add Preferences item to popup menu with accelerator P
+    Add Quit item to popup menu with accelerator Q (FR1914844)
+    Add Quit button to toolbar
+    Fix corruption of window title when pressing 1:1 button with no file open
+    Fix delete of last file in directory to reset to empty window rather than exiting
+    Have ask-before-save apply to auto-save-rotated (Bug2019492)
+    Fix so ask-before-save isn't lost during auto-save-rotated (this is now moot but left there in case policy changes in future)
+    Improve error reporting in JPEG rotate flow
+    Fix to not use /tmp when rotating temporary file to avoid failure if crossing filesystems
+    Have ask-before-save apply to every operation (Bug2019485) (Bug2019492)
+    Have format not supported fail with a message instead of fail silently
+    Change default for auto-save-rotated to false (Bug2019492)
+    Correct message texts typos and accuracy
+
+commit da04f7737fa40001e8469b95eb308e19be123231
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue May 12 21:09:49 2009 +0000
+
+    Adding translation of Urdu as spoken in Pakistan, same mantainer as Urdu.
+
+commit 11fd0020cb2f422808f609e4e21aaf87c5501f8c
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue May 12 07:53:23 2009 +0000
+
+    Adding complete translation of Urdu from Muhammad Ali Makki (http://www.urducoder.com)
+
+commit a1a10c77105a5368f3d6a42c1d36a435a22001eb
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed May 6 08:11:46 2009 +0000
+
+    [POOTLE] Russian and Dutch minor updates. Lithuanian translations for LXPanel plugins.
+
+commit f45d965828ba74e034a139269a503080d98353c5
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon May 4 19:14:44 2009 +0000
+
+    Dutch translation update from Pootle
+
+commit 58f9e86361b82f7b3e2e61c1419e5ad72ea7c635
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 1 13:47:19 2009 +0000
+
+    Updated POT for LXPanel, resynced.
+    Adding Turkish files.
+
+commit 4e5b42da3387447fc30f1452ff268bbbe72f9ca6
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri May 1 13:18:43 2009 +0000
+
+    Arabic and Ukrainian updates from Pootle
+
+commit 46340a925c1009f319456e9097c20e60cc281359
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Apr 27 15:59:03 2009 +0000
+
+    Italian translations from Pootle
+
+commit b00d18f3a813e17a0c91b272fcb96975d0c58332
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Apr 26 18:07:09 2009 +0000
+
+    Russian l10n from pootle
+
+commit 8156a34215ebe7af884a4bb25bc1a1d6409d051f
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Apr 23 08:12:06 2009 +0000
+
+    Russian updates from Pootle.
+
+commit 761d915c810943be8e5a2a44512e0a836b0ecc3b
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Apr 21 15:38:00 2009 +0000
+
+    Danish update for GPicView and LXPanel plugins from Pootle
+
+commit 15e3d13226d8da2a4cb7e6823638c31cd2f0cac5
+Author: Jürgen Hötzel <juergen@archlinux.org>
+Date:   Wed Apr 15 21:37:39 2009 +0000
+
+    rename instead of copy rotated tmpfile and handle errors
+
+commit cf05736466c8aba6fdf6fdb8044db37a28bf48e1
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Apr 15 19:23:34 2009 +0000
+
+    resync of POT for all languages and components.
+
+commit a275ff19ddb23ac6a7cee55c01ef9056e9a379de
+Author: Ying-Chun Liu (PaulLiu) <grandpaul@gmail.com>
+Date:   Tue Apr 14 20:03:55 2009 +0000
+
+    Check if rpix is NULL, if it is NULL, we don't do any rotate.
+
+commit 61355824d81437b484b07a32574982f732d3cc74
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Apr 13 20:52:32 2009 +0000
+
+    Sloveninan translation Matej Gačnik
+    Some changes in charsets for Danish translation.
+
+commit 468e8f682207634b2d62e908877dc081ad0ccb1e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Apr 9 12:08:27 2009 +0000
+
+    Updated translations (Slovenian) from Pootle
+
+commit 945358454c83c1090f9db4f675fb19349b7089eb
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Apr 7 10:48:18 2009 +0000
+
+    Lithuanian translations from Pootle
+
+commit 38734da8db84b2e046d77b138ddbe0a27893fe47
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Apr 5 22:06:46 2009 +0000
+
+    Adding th following translations
+     * LXTerminal Japanese (2711445) by IWAI Masaharu
+     * LXTerminal Russian (2720915) by anonymous
+     * GPicView Danish (2722085) by Vidar Jon Bauge
+     * Slovenian (2733779, 2733777, 2732466, 2732461, 2732460, 2732458, 2732456, 2732452, 2731414, 2731411, 2731408, 2731407, 2731406, 2731401) by M G
+
+commit ab1362b0a08446f7fa7fc861249126c9e01513e5
+Author: Jürgen Hötzel <juergen@archlinux.org>
+Date:   Sun Apr 5 10:04:24 2009 +0000
+
+    Fix #2613481 (Proper next/previous switching in RTL locales (Khaled Hosny))
+
+commit 0ade39b31386e1f1f78480f500457c1474da0bc9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Mar 23 19:25:56 2009 +0000
+
+    Adding updated German translations Benedikt Klus.
+    Closes the following in SF tracker:
+    2703313
+    2703306
+    2703300
+    2703294
+    2703287
+    2703271
+    2703259
+    2703256
+    2703253
+    2703241
+    2703125
+
+commit a09fcd238ffef60511ec4affa5821222b4e835af
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Mon Mar 23 19:12:04 2009 +0000
+
+    Danish translations from Pootle
+
+commit 90a032e7191bd93d9654e2e6ef43cfe3f2eb332a
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Mar 22 21:48:58 2009 +0000
+
+    spanish translations from Pootle.lxde.bsnet.se
+
+commit 4933cb5babee6cb05e25aeac7611da851bfbddaa
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sat Mar 21 16:35:38 2009 +0000
+
+    Adding Croatian translation of LXPanel (2687686) by Frank Bolkovich
+     by this Croatian is now 100% translated.
+    
+    this commit also adds hr as to the LINGUA of all sub parts.
+
+commit 54667e7a5bb699c67be7c630cd7d94d7c4a22ec4
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Mar 17 07:12:35 2009 +0000
+
+    Danish updates via Pootle
+
+commit 15e9dc3bb50c887de08f8e84899918f02b02c33b
+Author: Og Maciel <ogmaciel@gnome.org>
+Date:   Thu Mar 12 13:32:59 2009 +0000
+
+    Updated Brazilian Portuguese translations.
+
+commit 5a3d59d14524729ce9e2bd1493c912f74d65525e
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Mar 11 20:43:33 2009 +0000
+
+    adding Croatian translation (multiple artifacts), thanks Frank Bolkovich
+
+commit e937acea379df68323437ae138dddae92f980d16
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Mar 11 19:58:58 2009 +0000
+
+    adding croatian to repository, files are in tracker and will be added,
+
+commit 13754451cffa9fe99ca3a50627c18d3b5274a225
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Mar 11 07:34:15 2009 +0000
+
+    Updated Danish translation from Pootle
+
+commit 916e0b64f8ac851534cafa5c00fff3dd09118e18
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri Mar 6 15:24:30 2009 +0000
+
+    Ukrainian translation from pootle
+
+commit a771f53906db868a4e83f463a9557809cce2bb98
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Mar 5 16:48:07 2009 +0000
+
+    Ukrainian translations from Pootle
+
+commit 940f154393054d88a5e23aa07f0a428d435b8fb7
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Mar 4 10:03:34 2009 +0000
+
+    adding skeleton files for Pashto
+
+commit fd0bb207ee0def3fb05a1a02a17804d828849efa
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Mar 3 16:19:10 2009 +0000
+
+    po files created from POT has a "invalid" charset string, for all empy transltion files this has been set to utf-8 to make the pootle translation service better suited.
+
+commit b9753c392052c8119d3d7f7a74fd4abc42debbf0
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Mar 3 15:29:22 2009 +0000
+
+     - Indonesian translation of GPicView (2644659) by Andhika Padmawan
+     - Indonesian translation of LXTerminal (2645679) by Andhika Padmawan
+     - Indonesian translation of LXTask (2645730) by Andhika Padmawan
+     - Basque translation of LXMusic (2657492) by alainmendi
+
+commit ec680dcef380c27999d895be94dc7040a705adfa
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Mar 3 15:19:48 2009 +0000
+
+     - Polish translation of GPicView (2641159) by Piotrek
+
+commit 45c07dda475964ad977fa9b4cfb90221983cf416
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Feb 22 23:50:16 2009 +0000
+
+    Closes 2596325, thanks to helix84
+
+commit 95ff4b937deb0023bcb75c196dd3b554b62d63d3
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Feb 22 23:41:04 2009 +0000
+
+    Adding two patches for Russian translation, thanks Vee Nee, keep the good job up!
+    Closes 2586157 (LXTerminal)
+    Closes 2586240 (LXApperance)
+    
+    Adding one patch for Basque translation, thanks to alainmendi. Keep'em coming!
+    Closes 2605779 (LXLauncher)
+    
+    Adding one patch for Arabic translation, thanks to Ahmad Farghal. Reviews is always welcome!
+    Closes 2613994 (GPicview)
+
+commit daef886012073ce8641d5a5f4f0d4163429d24c9
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Feb 22 22:44:50 2009 +0000
+
+    updated all language lines in the configure files.
+    this is used as standard
+      ALL_LINGUAS="ar cs da de es et eu fa fi fr gl hu id it ja ko lt ml nb nl nn pl pt pt_BR ru sk sv uk vi zh_CN zh_TW"
+    
+    only lxtask is different with some language codes that are NOT maintained in pootle (yet?), see comment in that file.
+
+commit ae4f1446f5b0e5a8adbc572920bc36d468744f01
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Sun Feb 22 17:33:59 2009 +0000
+
+    added new languages to Pootle(.lxde.bsnet.se)
+
+commit 18c87ffd2ea02b3a913ec7fb3510f12ace806c35
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Thu Feb 12 06:41:54 2009 +0000
+
+    adding a forgotten skeleton
+
+commit bc519f6ca81625c214d748d6a025ea562c76db47
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Feb 11 18:17:08 2009 +0000
+
+    adding empty files for languages that are partially translated in other components. renaming some files (es_ES and de_DE)
+
+commit 30127c57e72010731c49f910915fb53e26fd9104
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Wed Feb 11 10:56:13 2009 +0000
+
+    renaming PO-files pt_PT.po to pt.po
+
+commit b26fc5a6f89a4bc866e0feae8f8ddbfbd93341bc
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Fri Feb 6 22:06:21 2009 +0000
+
+    resyncing of po files for potfile.
+
+commit c1fbcf2149ce8018b0f5c841ed2109209eed43fc
+Author: Martin Bagge <brother@bsnet.se>
+Date:   Tue Feb 3 00:22:20 2009 +0000
+
+    Adding inital Danish translation. Thaks to Vidar Jon Bauge. An update will probably come soon.
+
+commit ddac856b153cf3a950c78661513ada10eea738e3
+Author: majkl <majkl82@users.sourceforge.net>
+Date:   Mon Feb 2 00:26:26 2009 +0000
+
+    Czech translation updated
+
+commit 89abfd46598901053b264756057a5a06b1da219b
+Author: Ming-Ting Wei <mwei@lxde.org>
+Date:   Tue Jan 27 18:29:07 2009 +0000
+
+    Added Arabic translations for GTKNetCat, LXSys-Nettool, LXLauncher, LXRandr and gpicview.
+
+commit 00c9942d03d9c63d13277f12b4a125768db5903c
+Author: Mario Blättermann <mbl103@t-online.de>
+Date:   Sun Jan 25 13:18:37 2009 +0000
+
+    Updated German translation
+
+commit 760406b0a02f6e10601b4d46bb231851529b5cfb
+Author: billy3321 <billy3321@gmail.com>
+Date:   Sun Jan 25 12:33:13 2009 +0000
+
+    Add polish translation for lxterminal lxmusic lxappearance lxsession-edit (pl_PL.po)
+    Update polish translation for lxpanel lxtask gpicview (pl.po)
+
+commit 0405707fdb90add9e265e37ef51916079f6c3fd6
+Author: billy3321 <billy3321@gmail.com>
+Date:   Sun Jan 25 12:13:13 2009 +0000
+
+    Add Italian translation for lxterminal lxshortcut lxsession lxsession-lite lxsession-edit gtknetcat lxmusic lxappearance lxpanel lxsys-nettool lxlancher gpicview
+
+commit 1d5a8c2591ac4126bd1b527fd26fa5f2e8d5a89f
+Author: Ming-Ting Wei <mwei@lxde.org>
+Date:   Sun Jan 25 11:07:42 2009 +0000
+
+    Added Portuguese PT translation for gpicview, adding new translation data of lxmusic/configure.in
+
+commit 2934214c75046ac3842034c2f03ecde6db96926c
+Author: billy3321 <billy3321@gmail.com>
+Date:   Sun Jan 25 10:15:55 2009 +0000
+
+    Add Estonian translation for lxterminal lxshortcut lxsession-lite lxsession-edit gtknetcat lxmusic lxapperarance lxpanel lxlancher lxtask lxrandr gpicview
+    fix et.po in lxmenu-data
+
+commit 7930c9edd92d2d1c3e68ddd45295920164231a3f
+Author: billy3321 <billy3321@gmail.com>
+Date:   Sun Jan 25 08:57:49 2009 +0000
+
+    Add Swedish translations for gtknetcat gpicview lxlancher lxappearance.
+
+commit 940032ebe6f305acef07adfc75e5709a15a88f4f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Dec 16 15:25:46 2008 +0000
+
+    Release gpicview 0.1.11.
+
+commit 5a538feb3ab8b2c4b62a48106d6e1a44ce826a94
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Dec 16 15:17:38 2008 +0000
+
+    Use more secure format strings to eliminate compiler errors.
+
+commit a574ce8f03d258a44bfcacdd51510afd2444603c
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Dec 16 14:52:46 2008 +0000
+
+    Little fix.
+
+commit 10053f4c8b5a02e624887bc306e99cdf56d69d61
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Sat Dec 13 21:49:28 2008 +0000
+
+    Added many Spanish translations
+
+commit ffd7ce767a5e3dae5f9d79a86024aeefa69d2fac
+Author: poctob <poctob@users.sourceforge.net>
+Date:   Wed Dec 10 20:38:03 2008 +0000
+
+    Updated Russian Translation
+
+commit b790387379d11309b8ef6aa21900e1f7f73e2392
+Author: poctob <poctob@users.sourceforge.net>
+Date:   Wed Dec 10 20:36:59 2008 +0000
+
+    Updated Russian Translation
+
+commit 892f4dc305201ca1e7e7c5aa5a9beaa7c0738230
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Sat Dec 6 18:37:43 2008 +0000
+
+    Updated many translations from SF's bug tracker
+
+commit d7951e599a57402a0a406ef586b492033a526997
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Thu Dec 4 13:51:05 2008 +0000
+
+    Two typos in Finnish translation fixed
+
+commit 204ee09d8f5c7823bac5ad5a176918fc58e695bf
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Tue Nov 25 15:13:32 2008 +0000
+
+    Fixed typo in GPicView and updated some Finnish translations
+
+commit 77557b1733705b3b995573e7dddb767935b90c1f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Nov 20 04:18:04 2008 +0000
+
+    Add Basque locale (eu.po) for gpicview provided by Alain Mendizabal
+    Alain Mendizabal <alainmendi@gmail.com>.
+
+commit fa27691a73a645601dfc60c334af2dee6499a47f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Nov 20 04:15:21 2008 +0000
+
+    Apply patch from Frank ENDRES <frank_endres@yahoo.fr> to fix bugs
+    related to deleted image files..
+
+commit 2358016837dc04a3f5acdc6f016876b927b98fff
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon Nov 10 09:11:29 2008 +0000
+
+    Use a more user-friendly generic name for the image viewer rather than
+    gpicview in the application shortcut.
+
+commit 4d74105cc66a04b3d680ea1a5fd45bcefe2637a4
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Sun Nov 9 11:41:55 2008 +0000
+
+    Updated Finnish translations
+
+commit 5eee5df6657ac3f0776117dc0a97db957b80026f
+Author: Fred Chien <fred@lxde.org>
+Date:   Thu Sep 11 06:30:38 2008 +0000
+
+    update version to 0.1.10
+
+commit 3d62c4bbfcd8be46b5f4db4716e1bb9fc9f8598d
+Author: Ying-Chun Liu (PaulLiu) <grandpaul@gmail.com>
+Date:   Tue Sep 9 18:13:05 2008 +0000
+
+    Some types of images cannot be saved by gdk_pixbuf_save(). Avoid saving on
+    those types.
+
+commit ff032ffeb02e46db3307eebd2b64d16a51df6868
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Sat Sep 6 14:58:44 2008 +0000
+
+    CVE-2008-3904
+    
+    Replace g_spawn_command_line_async with g_spawn_async.
+    Confirming to launch only one program at one time.
+
+commit 86ebaeb36ad5a3b2ef2e7300f96dfe605848b688
+Author: Ying-Chun Liu (PaulLiu) <grandpaul@gmail.com>
+Date:   Tue Sep 2 09:51:14 2008 +0000
+
+    fix on_win_state_event() type
+
+commit c9bcabc83535b233b1320331989975827bf0d024
+Author: Ying-Chun Liu (PaulLiu) <grandpaul@gmail.com>
+Date:   Tue Sep 2 09:23:53 2008 +0000
+
+    fix temp file insecure code
+
+commit b7284a7448763b38c77b1bb057925cc398a11300
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Wed Aug 6 04:35:53 2008 +0000
+
+    Added Simplified Chinese translations contributed by
+    crquan <crquan@gmail.com> and ideal <05281253@bjtu.edu.cn>.
+
+commit b2299bffeddd0583ab8e7fad000916f40f5d53b3
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Wed Aug 6 04:34:04 2008 +0000
+
+    Remove generated file.
+
+commit 05354e3664e49a5d7e5956d88768c34eef7a04c7
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Wed Aug 6 04:32:43 2008 +0000
+
+    Turn off intltool warnings.
+
+commit 612f1f19ec82e3a383e394688ba1187b85ded2bc
+Author: Mario Blättermann <mbl103@t-online.de>
+Date:   Sat Jul 5 19:54:54 2008 +0000
+
+    Updated german translation
+
+commit f214531de5d7dee47088b94d7a9e5af8cf6a82f9
+Author: hialan <hialan.liu@gmail.com>
+Date:   Fri Jun 20 13:39:21 2008 +0000
+
+    change list order , use GTK_SORT_DESCENDING insteaded.
+
+commit da046c6e442cd3f09cc8ce3ba2062877ab36219e
+Author: hialan <hialan.liu@gmail.com>
+Date:   Sat May 24 12:04:21 2008 +0000
+
+    * fix conflict of main-win.c
+    * merge branches/gpicview_hialan to trunk/gpicview
+
+commit e216a767238848edc1dfd2a6ae9c518c76530742
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 24 04:02:26 2008 +0000
+
+    Make gpicview compatible with fullscreen mode triggered by window managers.
+
+commit fdcf703c6898ab5e802b12cb1f07790013bfe467
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 17 14:50:23 2008 +0000
+
+    Add missing file...
+
+commit ca72ab8f60fcf6f8e1ab8d98aebdbc85852cbf66
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 17 14:45:37 2008 +0000
+
+    Fix erros in locales and add missing file for gpicview.
+
+commit c215db47332b4a12482d7d68008aa43e711870ca
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu May 15 19:09:33 2008 +0000
+
+    Apply orientation provided by EXIF (Use gtk+ 2.12 specific API)
+    Patch provided by <hialan.liu@hotmail.com>.
+
+commit ef81dd874c699a94cda6a673ff6f245bbf65ab39
+Author: Elias Julkunen <elias.julkunen@gmail.com>
+Date:   Sun May 11 10:25:28 2008 +0000
+
+    Add Finnish locale
+
+commit d353aca7de21706cb14cef21d6e665dd62d466af
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 10 19:05:42 2008 +0000
+
+    Update pt_BR locales.
+
+commit 878dce3b1d0d72e45220b0a05f7058f9fcda60c8
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue May 6 12:00:52 2008 +0000
+
+    Add Russian locale for gpicview.
+
+commit c5a539c79c4c198763ca97df89cf8a0ee0e1b2c5
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat May 3 01:34:02 2008 +0000
+
+    Update URLs: http://lxde.sf.net -> http://lxde.org/
+
+commit c9b2a022442562f8fd95b3e48baccef5a318332e
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu May 1 13:04:41 2008 +0000
+
+    Add Finnish locale.
+
+commit c72de58a98964d642ad34c6a0c8345240f6bdef2
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Apr 22 19:54:46 2008 +0000
+
+    Add Norwegian locale.
+
+commit 12e23975336f8ba2fa5a697ca475b79ba213500c
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Apr 22 17:05:40 2008 +0000
+
+    Update locales.
+
+commit b68d3b84e4b955f9bc5fe639dd2726b13cebd1e3
+Author: SZERVÁC Attila <sas@321.hu>
+Date:   Mon Apr 21 05:51:38 2008 +0000
+
+    Repairing the wrong Hungarian style
+
+commit f34b3b31bf9e91b57a91a795bad783dacbdd9411
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat Apr 19 19:39:16 2008 +0000
+
+    Fix memory leaks.
+    Update the docs and get all stuff well-documented.
+
+commit b86d3492cc5d04cf7e4aefe6dd108cbafcfc9acd
+Author: Imre Veres <six@mzperx.hu>
+Date:   Sun Apr 13 15:12:27 2008 +0000
+
+    Little fixes for hungarian translation
+
+commit 1aa27a36915f4f034f8b638fb8ce38a43e6dbcbf
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon Mar 24 22:23:08 2008 +0000
+
+    Add Japanese locale.
+
+commit fb1e1f47dbfd84cc18c1b1053f083b2ed4a503ca
+Author: SZERVÁC Attila <sas@321.hu>
+Date:   Sun Mar 23 00:53:04 2008 +0000
+
+    intl:hu gpiciew, lxde-openbox added
+
+commit 7418a8999d082023070afaf767630940d06d605b
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon Mar 10 15:32:48 2008 +0000
+
+    Add new locale: lt.
+
+commit d9f34bf973514e155808dd42049c4246cdbcba8b
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Fri Mar 7 10:25:39 2008 +0000
+
+    Use g_object_ref_sink() since gtk+ version >= 2.8
+    close bug #1907622.
+
+commit 48391ac95ca0893f7ce563bd36459d89aed4bb06
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sat Feb 23 22:51:45 2008 +0000
+
+    Delete unused files.
+
+commit cb04e1194a2258ea1ae4d19ba001e7f9a137cafc
+Author: Fred Chien <fred@lxde.org>
+Date:   Wed Feb 20 18:28:46 2008 +0000
+
+    setting release number.
+
+commit 58e1b1063898fdf82c2693c5631969e623504ba1
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Sun Feb 3 15:48:38 2008 +0000
+
+    Patch #1885653
+    
+    Submitted By: kirilov-georgi
+    
+    The patch makes scrollwheel to zoom in/out only while <Ctrl> is held. This
+    is the way Gimp does it and
+    http://library.gnome.org/devel/hig-book/stable/input-mouse.html.en#mouse-buttons
+    Without <Ctrl> scrollwheel goes to the prev/next picture
+
+commit d2d3c393d8ca3fb51d60d65f9a56ec3a59955b4e
+Author: Jim Huang <jserv.tw@gmail.com>
+Date:   Thu Jan 31 06:21:29 2008 +0000
+
+    Eliminate compiler warnings.
+
+commit 0c0c8179e8d438ce2033a043dd4ebf50dc05d55c
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Jan 30 04:40:49 2008 +0000
+
+    Release gpicview 0.1.8.
+    Improve icons.
+    Fix compiler warnings.
+    Supporting making gpicview default program for image files in preference dialog.
+
+commit 1eee576648929dfbf04e69557222835cfc9ad2aa
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Jan 29 10:23:23 2008 +0000
+
+    Add new locale for Dutch.
+
+commit 449a4d7f472b7a4ddbc06c483faec792b42973df
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Nov 22 21:21:53 2007 +0000
+
+    Add fr.po.
+
+commit c325c98943909d7c3a21512fae116f76c9968cfc
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Nov 21 20:18:47 2007 +0000
+
+    Add zh_CN.po.
+
+commit 9fe4025f422a2d6b6d11fff4db470b405065a4f6
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Fri Nov 9 18:09:23 2007 +0000
+
+    Update debian related files for gpicview 0.1.6.
+
+commit bb0f721e7ce6b75edfd182f62904c066acb5fdf1
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Fri Nov 9 17:53:39 2007 +0000
+
+    Add simple preferences support.
+    Update locales.
+
+commit 7c3b160cb5523ffc81ec592737a3b18b74d57167
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Fri Nov 9 16:30:27 2007 +0000
+
+    Add new sk locale for lxpanel and lxsession.
+    Apply jpeg lossless rotation patch for gpicview from Martin Siggel
+    <martinsiggel@googlemail.com>
+    Improve about dialog of gpicview.
+
+commit cf15ca10e421397368c9988085d898b8fe9f9944
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Fri Nov 9 05:47:59 2007 +0000
+
+    Merge changes in plain C gpicview branch back to trunk.
+
+commit 94fcf707e08d0dcb70063a7d4d98adc4a2c91236
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Fri Sep 14 04:56:54 2007 +0000
+
+    Add es and gl locales for gpicview.
+
+commit 76e88fcf659c21d8e767548f7ad3cf70847654a9
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Sep 13 21:12:08 2007 +0000
+
+    Changes to gpicview:
+    * Sort file list by name.
+
+commit 2c34ffe0ea9e3bf7c672d31ba710fc02e1e1a86c
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Sep 13 20:07:56 2007 +0000
+
+    Changes to gpicview.
+    * Remove border of scrolled_window.
+
+commit b253fd31891b1b6bb4eeccc196547e70bca27032
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Thu Sep 13 10:09:06 2007 +0000
+
+    * Little bug fix for gtk+ prior to 2.10.
+    * Update pt_BR locale.
+
+commit f1db1890f08200d7788258e723ada224245da1c7
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Sep 12 19:49:44 2007 +0000
+
+    Update debian packing files & locales for gpicview 0.1.5.
+
+commit 9c52ae58b11405c9b673d2e8076be51a4d0eccab
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Sep 12 19:43:37 2007 +0000
+
+    Merge latest development in gpicview_image_view branch to trunk.
+    Prepare to release gpicview 0.1.5.
+
+commit 4b2a1ee1d06a31f2d793039959f649a1c578010e
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Sep 12 16:13:38 2007 +0000
+
+    Changes to gpicview:
+    * Update pt_BR locale.
+    * Add gobj-ptr.h to provide auto_ptr-like utility for GObject.
+
+commit 52c867e9e2dbe9149e2a0bcb88dda4d45e5f217b
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Sep 12 15:03:19 2007 +0000
+
+    Some little bug fixes for gpicview.
+
+commit 0ed1aa41a18b5a1dc32b87e8e31ffd7c6ac53492
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Wed Sep 12 13:02:14 2007 +0000
+
+    Changes to gpicview in trunk and branches
+    * Add missing #include in mainwin.cpp
+    * Using a new ImageView widget to display image (branch)
+
+commit 641adad35c090e3a7d6826e0c980413444414bf3
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 20:14:24 2007 +0000
+
+    Little fix.
+
+commit d8ce3af11cdd17d8c44cb0d6acd21dedad04610d
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 14:22:35 2007 +0000
+
+    Little bug fix for gpicview.
+
+commit ac612f4c80f36f90c1afcc25d18736219403100b
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 14:02:23 2007 +0000
+
+    Add cs locale and update sk locale for gpicview.
+
+commit 2b52e4eb83187b71f481a9f3b9083cb1befc2633
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 12:54:18 2007 +0000
+
+    Add Slovak (sk) translation for GPicView.
+
+commit 7c088028ca026ed1736a0b58b48cf1c5c3dff9d9
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 12:37:13 2007 +0000
+
+    Release gpicview 0.1.3.
+
+commit ed87590ca56cb7763d5b0f6cbdf4cb4d9f5f355e
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 12:20:10 2007 +0000
+
+    Update locales for gpicview.
+
+commit da8bd946395089dc50d25fa9632f23f86875f68f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 12:09:10 2007 +0000
+
+    Changes to gpicview:
+    * Bump version number to 0.1.3.
+    * Open file in its original size if suitable.
+    * Don't strech small image in "Fit Window Size".
+    * Better zooming (taken from EOG).
+    * Enable zooming with mouse wheel scrolling.
+    * Parse "--help" command line arguments.
+
+commit 0c8ac16269a681ea4055b7c69d630bbdf42e6638
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Tue Sep 11 07:54:25 2007 +0000
+
+    Little bugfix for gpicview.
+
+commit 5bfec9715864068e627e2320d6a9446fc43f199f
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon Sep 10 22:29:26 2007 +0000
+
+    Changes to GPicView 0.1.1
+    * Add accelerators to popup menu.
+    * Support zooming with mouse wheel.
+    * Set background to black in full screen mode
+
+commit fcb159e5f1c6b2d618153158d9b3dc6974c0bf2e
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Mon Sep 10 13:57:15 2007 +0000
+
+    Add pt_BR locale for gpicview.
+
+commit 1e7236231760ec0fea6e48a2858895c8b2735a51
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun Sep 9 19:40:53 2007 +0000
+
+    Add debian-related files.
+
+commit f36cf008f01472101ce91f38a4ed31baec0dc5cb
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun Sep 9 16:47:33 2007 +0000
+
+    Update webpage.
+
+commit b9ca6e3b5aae7c80f0e0163576fd4e5fde71f648
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun Sep 9 16:17:06 2007 +0000
+
+    Add new webpage for GPicView.
+
+commit 1d48a247b776ef53e995ef22aa748cd2f3863e93
+Author: Hong Jen Yee (PCMan) <pcman.tw@gmail.com>
+Date:   Sun Sep 9 15:44:52 2007 +0000
+
+    Add a new image viewer - GPicView.

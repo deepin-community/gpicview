@@ -1,0 +1,17 @@
+Description: fix FTBFS with clang instead of gcc
+Author: Nicolas Sévelin-Radiguet <nicosr@free.fr>
+Last-Update: 2014-04-01
+
+Index: gpicview/src/main-win.c
+===================================================================
+--- gpicview.orig/src/main-win.c
++++ gpicview/src/main-win.c
+@@ -378,7 +378,7 @@ gboolean main_win_open( MainWin* mw, con
+         image_list_sort_by_name( mw->img_list, GTK_SORT_DESCENDING );
+         if (image_list_get_first(mw->img_list))
+             main_win_open(mw, image_list_get_current_file_path(mw->img_list), zoom);
+-        return;
++        return FALSE;
+     }
+ 
+ 

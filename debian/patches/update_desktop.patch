@@ -1,0 +1,17 @@
+Description: Update gpicview.desktop for lintian clean
+Author: Mateusz Łukasik <mati75@linuxmint.pl>
+Origin: other
+
+--- gpicview-0.2.3+git20130714.orig/gpicview.desktop.in
++++ gpicview-0.2.3+git20130714/gpicview.desktop.in
+@@ -1,5 +1,4 @@
+ [Desktop Entry]
+-Encoding=UTF-8
+ Categories=Graphics;Utility;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography;
+ Exec=gpicview %f
+ Icon=gpicview
+@@ -10,3 +9,4 @@ MimeType=image/bmp;image/gif;image/jpeg;
+ _Name=Image Viewer
+ _GenericName=Image Viewer
+ _Comment=View your images easily
++_Keywords=graphics;pictures;viever;photography;
